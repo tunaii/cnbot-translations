@@ -1,0 +1,1108 @@
+#sig MEYCIQCu9OrJ/CzO5xMRq8roophO6l+Cuhw0ZoEuVqQbFwlldQIhANOLp56Yg9hbIZq4HmkXcTispq6/4jUrxWRlzDFL/4c0
+V	2026-11-05T18:25:38Z
+M	脚本结束	Script ended	Skript beendet
+M	脚本已结束	Script ended	Skript beendet
+M	脚本运行中	Script running	Skript läuft
+M	脚本开始运行	Script started	Skript gestartet
+M	开始运行	Start	Start
+M	停止运行	Stop	Stopp
+M	停止	Stop	Stopp
+M	开始	Start	Start
+M	确定	OK	OK
+M	取消	Cancel	Abbrechen
+M	返回	Back	Zurück
+M	保存	Save	Speichern
+M	提示	Notice	Hinweis
+M	警告	Warning	Warnung
+M	正在更新	Updating	Wird aktualisiert
+M	更新完成	Update complete	Aktualisierung abgeschlossen
+M	加载中	Loading	Lädt
+M	请稍候	Please wait	Bitte warten
+M	运行	Run	Starten
+M	暂停	Pause	Pause
+M	继续	Continue	Weiter
+M	日志	Log	Protokoll
+M	帮助	Help	Hilfe
+M	关于	About	Info
+M	退出脚本	Exit script	Skript beenden
+M	爱玩coc免费辅助	Aiwan CoC Free Bot	Aiwan CoC Gratis-Bot
+M	点下面的“确定”开始运行	Tap 'OK' below to start	Zum Starten unten auf „OK“ tippen
+M	注意：辅助软件设置里不要勾选旧版节点服务	Note: in the bot app settings, do NOT enable 'legacy node service'	Hinweis: In den Einstellungen der Bot-App „Alter Node-Dienst“ NICHT aktivieren
+M	分辨率设置为：720*1280 dpi：320	Set resolution to 720x1280, DPI 320	Auflösung auf 720x1280, DPI 320 stellen
+M	自动设置分辨率（部分机型需要在右上角设置里勾选运行在最高权限中）异形屏千万别选，如：水滴屏，挖孔屏，刘海屏。云手机别选	Auto-set resolution (some devices need 'Run with highest privileges' enabled in Settings, top right). Do NOT use on notch / punch-hole / waterdrop screens or cloud phones	Auflösung automatisch einstellen (manche Geräte benötigen „Mit höchsten Rechten ausführen“ in den Einstellungen oben rechts). NICHT bei Geräten mit Notch, Punch-Hole oder Wassertropfen-Display oder bei Cloud-Phones verwenden
+M	辅助是免费的，没有任何网店，网上卖的都是盗版爱玩，套个收费壳，然后改一下界面文字图标拿来卖钱	This bot is free and has no online shop. Paid versions online are pirated copies of Aiwan with a paywall and a reskinned UI	Dieser Bot ist kostenlos und hat keinen Online-Shop. Online verkaufte Versionen sind Raubkopien von Aiwan mit Bezahlschranke und verändertem Design
+M	免费辅助希望大家积极赞助，有问题在官网+群	The bot is free, donations are appreciated. For help, use the website or the group	Der Bot ist kostenlos, Spenden sind willkommen. Hilfe gibt es auf der Website oder in der Gruppe
+M	官网进不去的换个浏览器再试	Website not loading? Try another browser	Website lädt nicht? Anderen Browser versuchen
+M	官网：awfuzhu.com:88	Website: awfuzhu.com:88	Website: awfuzhu.com:88
+M	官网：aiwanmianfei.com:88	Website: aiwanmianfei.com:88	Website: aiwanmianfei.com:88
+M	官网：cocfz.com:88	Website: cocfz.com:88	Website: cocfz.com:88
+M	1.爱豆跳过广告，免启动码，提高运行效率	1. Aidou: skip ads, no launch code, faster running	1. Aidou: Werbung überspringen, kein Startcode, schnellere Ausführung
+M	2.云备份和恢复辅助设置，与其他设备互传	2. Cloud backup/restore of bot settings, share between devices	2. Cloud-Backup/-Wiederherstellung der Bot-Einstellungen, Austausch zwischen Geräten
+M	3.官网发广告，广告在辅助上和官网显示	3. Post ads on the website (shown in the bot and on the website)	3. Werbung auf der Website schalten (wird im Bot und auf der Website angezeigt)
+M	爱豆1毛1个=1天时长，按使用时间扣除，用多久扣多少	1 Aidou = 0.10 CNY = 1 day, deducted by actual usage time	1 Aidou = 0,10 CNY = 1 Tag, abgezogen nach tatsächlicher Nutzungsdauer
+M	爱豆用法：在辅助官网注册爱玩帐号，然后输入到辅助上	How to use Aidou: register an Aiwan account on the website, then log in with it in the bot	Aidou-Nutzung: Auf der Website ein Aiwan-Konto registrieren und sich damit im Bot anmelden
+M	爱豆获得方式：宣传正版辅助减少倒卖，或热心在群里回答辅助问题，或直接在官网赞助辅助。	How to get Aidou: promote the official bot (against resellers), help answer questions in the group, or donate on the website.	Aidou erhalten: Den offiziellen Bot bewerben (gegen Wiederverkäufer), in der Gruppe Fragen beantworten oder auf der Website spenden.
+M	爱玩提取数据包工具	Aiwan Account Data Tool	Aiwan Kontodaten-Tool
+M	界面1	Page 1	Seite 1
+M	爱玩coc数据包提取工具：	CoC account data extractor:	CoC-Kontodaten-Extraktor:
+M	腾讯提取数据到sdcard/爱琦国服/	Tencent (CN): save data to sdcard/爱琦国服/	Tencent (CN): Daten speichern in sdcard/爱琦国服/
+M	谷歌提取数据到sdcard/爱琦国际/	Google (Global): save data to sdcard/爱琦国际/	Google (Global): Daten speichern in sdcard/爱琦国际/
+M	文件目录里	folder	Ordner
+M	提取当前登录的游戏数据包	Extract logged-in account data	Daten des angemeldeten Kontos extrahieren
+M	删除此目录数据包	Delete data in this folder	Daten in diesem Ordner löschen
+M	爱玩coc数据包切号工具：	CoC account switcher (saved data):	CoC-Kontowechsler (gespeicherte Daten):
+M	版本：	Version:	Version:
+M	腾讯	Tencent (CN)	Tencent (CN)
+M	谷歌	Google (Global)	Google (Global)
+M	切号	Switch account	Konto wechseln
+M	QQ授权上号切号工具：	QQ authorization login/switch tool:	QQ-Autorisierung Login-/Wechsel-Tool:
+M	抓取	Capture	Erfassen
+M	上号	Log in	Anmelden
+M	←返回	← Back	← Zurück
+M	退出	Exit	Beenden
+M	缩小窗口	Shrink	Verkleinern
+M	放大	Enlarge	Vergrößern
+M	隐藏	Hide	Ausblenden
+M	爱玩账号	Aiwan Account	Aiwan-Konto
+M	爱玩账号：	Aiwan account:	Aiwan-Konto:
+M	爱玩密码：	Aiwan password:	Aiwan-Passwort:
+M	记住账号7天	Remember 7 days	7 Tage merken
+M	永久记住账号	Remember forever	Dauerhaft merken
+M	取消no	Cancel	Abbrechen
+M	登录login	Log in	Anmelden
+M	关闭	Close	Schließen
+M	爱玩官网有教程如何自己抓取，如果用下方工具抓就不需要这些操作	The Aiwan website has a tutorial for capturing it yourself. Not needed if you use the tool below	Auf der Aiwan-Website gibt es eine Anleitung zum selbst Erfassen. Nicht nötig, wenn du das Tool unten benutzt
+M	自己抓的QQ授权地址：	Your captured QQ auth URL:	Selbst erfasste QQ-Auth-URL:
+M	清空	Clear	Leeren
+M	把自己抓的QQ授权地址设为账号：	Set captured QQ auth URL as account:	Selbst erfasste QQ-Auth-URL als Konto festlegen:
+M	确认	Confirm	Bestätigen
+M	？	?	?
+M	确认yes	Confirm	Bestätigen
+M	窗口标题	Window title	Fenstertitel
+M	账号1	Account 1	Konto 1
+M	备注notes：	Notes:	Notizen:
+M	删除配置	Delete	Löschen
+M	上一个号	◀ Prev	◀ Zurück
+M	下一个号	Next ▶	Weiter ▶
+M	把账号	Copy from acct	Kopieren von Konto
+M	的设置同步到本页	to this page	auf diese Seite
+M	确认同步	Sync	Sync
+M	开启此号Run this	Run this acct	Dieses Konto starten
+M	腾讯Tencent	Tencent (CN)	Tencent (CN)
+M	谷歌Google	Google (Global)	Google (Global)
+M	关闭close	Close	Schließen
+M	登录方式：	Login method:	Anmeldemethode:
+M	扫码	QR scan	QR-Scan
+M	QQ授权工具	QQ auth tool	QQ-Auth-Tool
+M	QQ号:	QQ number:	QQ-Nummer:
+M	用腾讯数据包登录use Tencent :sdcard/爱琦国服/	Log in with Tencent data: sdcard/爱琦国服/	Mit Tencent-Daten anmelden: sdcard/爱琦国服/
+M	用谷歌数据包登录use Google :sdcard/爱琦国际/	Log in with Google data: sdcard/爱琦国际/	Mit Google-Daten anmelden: sdcard/爱琦国际/
+M	此号运行run	Run for	Dieses Konto läuft
+M	分钟后再切号min later change Account	min, then switch	Min., dann wechseln
+M	进入游戏需要几秒:	Load time (s):	Ladezeit (s):
+M	然后点坐标	then tap at	dann tippen auf
+M	=========常用设置==========	======= General Settings =======	======= Allgemeine Einstellungen =======
+M	当	When	Wenn
+M	金	Gold	Gold
+M	水	Elixir	Elixier
+M	黑	Dark Elixir	Dunkles Elixier
+M	黑 满时	DE is full:	DE voll:
+M	继续打鱼	Keep farming	Weiter farmen
+M	下线30分钟	Go offline 30 min	30 Min. offline
+M	停止打鱼	Stop farming	Farmen stoppen
+M	资源转换	Convert resources	Ressourcen umwandeln
+M	自动最多转最少	Auto: convert most to least	Auto: meiste zu wenigster
+M	手动指定条件：	Manual:	Manuell:
+M	打鱼     每次循环打	Farm, attacks/cycle:	Farmen, Angriffe/Zyklus:
+M	次	times	Mal
+M	不买援兵	Don't buy reinforcements	Keine Verstärkung kaufen
+M	用蛋糕买援兵	Buy reinforcements with Clan Castle Cake	Verstärkung mit Clanburg-Kuchen kaufen
+M	用蛋糕+都城币	Use Cake + Capital Gold	Kuchen + Stadtgold nutzen
+M	打排位 每次循环打	Ranked, attacks/cycle:	Rangliste, Angriffe/Zyklus:
+M	（打排位战默认使用部落战的造兵和下兵设置）	(Ranked battles use the Clan War army and deploy settings)	(Ranglistenkämpfe nutzen die Armee- und Einsatzeinstellungen des Clankriegs)
+M	飘云超时处理方式：停打鱼:	Stuck in clouds: stop farming	In Wolken festgehangen: Farmen stoppen
+M	飘云超时处理方式：    下线:	Stuck in clouds: go offline	In Wolken festgehangen: offline gehen
+M	分钟	min	Min.
+M	移除护盾	Remove shield	Schild entfernen
+M	采集+收集宝库	Collect resources + Treasury	Ressourcen + Schatzkammer sammeln
+M	除草	Remove obstacles	Hindernisse entfernen
+M	捐兵	Donate troops	Truppen spenden
+M	从下往上捐	Donate bottom to top	Von unten nach oben spenden
+M	从上往下捐	Donate top to bottom	Von oben nach unten spenden
+M	删援兵	Remove CC troops	Clanburg-Truppen entfernen
+M	求援	Request CC troops	Clanburg-Truppen anfordern
+M	喊话：	Message:	Nachricht:
+M	指定条件:	Only when:	Nur wenn:
+M	打鱼时	Farming	Beim Farmen
+M	打排位时	Ranked	Rangliste
+M	打部落战时	Clan War	Clankrieg
+M	删除指定求援兵种	Remove specific CC troops	Bestimmte Clanburg-Truppen entfernen
+M	发起突袭	Start Capital Raid	Clanstadt-Überfall starten
+M	打突袭	Attack in Raid Weekend	Am Raid-Wochenende angreifen
+M	突袭下兵重启	Restart game after Raid deploy	Spiel nach Raid-Einsatz neu starten
+M	显示统计	Show stats	Statistik anzeigen
+M	领每周精选免费物品	Claim weekly free Trader item	Wöchentlichen Gratis-Händlerartikel abholen
+M	领英雄征程	Claim Hero Journey rewards	Heldenreise-Belohnungen abholen
+M	部落贡献活动，贡献	Clan contribution event: contribute	Clan-Beitragsevent: beitragen
+M	领部落贡献活动奖励	Claim clan contribution event rewards	Clan-Beitragsevent-Belohnungen abholen
+M	活动币买物品（会领活动兵奖励）	Buy items with event currency (also claims event troop reward)	Items mit Event-Währung kaufen (holt auch Event-Truppenbelohnung ab)
+M	自动买史诗（下面史诗选项无效）	Auto-buy Epic equipment (ignores choices below)	Epische Ausrüstung automatisch kaufen (ignoriert Auswahl unten)
+M	火箭背包	Rocket Backpack	Raketenrucksack
+M	雷电战靴	Electro Boots	Elektrostiefel
+M	英雄火炬	Heroic Torch	Heroische Fackel
+M	灵蛇手镯	Snake Bracelet	Schlangenarmband
+M	木棍马驹	Stick Horse	Steckenpferd
+M	火箭飞矛	Rocket Spear	Raketenspeer
+M	陨石法杖	Meteor Staff	Meteorstab
+M	巨大火球	Fireball	Feuerball
+M	擎天箭矢	Monolith Arrow	Monolithpfeil
+M	熔岩气球玩偶	Lavaloon Puppet	Ballonhund-Puppe
+M	巨型手套	Giant Gauntlet	Riesenhandschuh
+M	建筑书	Book of Building	Buch des Bauens
+M	战斗书	Book of Fighting	Buch des Kampfes
+M	英雄书	Book of Heroes	Buch der Helden
+M	铲子	Shovel	Schaufel
+M	力量	Power	Kraft
+M	资源	Resource	Ressource
+M	训练	Training	Training
+M	工人	Builder Pot.	Bauarb.-Trank
+M	钟楼	Clock Tower	Uhrenturm
+M	英雄	Hero Pot.	Helden-Trank
+M	研究	Research	Forschung
+M	超级	Super Pot.	Super-Trank
+M	战宠	Pet Pot.	Tier-Trank
+M	星瓶	Star Jar	Sternenglas
+M	墙戒	Wall Ring	Mauerring
+M	星辉	Starry Ore	Sternenerz
+M	璀璨	Glowy Ore	Leuchterz
+M	闪亮	Shiny Ore	Glänzendes Erz
+M	突袭币买物品	Buy items with Raid Medals	Items mit Raid-Medaillen kaufen
+M	卖魔法物品	Sell Magic Items	Magische Items verkaufen
+M	领都城币	Collect Capital Gold	Stadtgold abholen
+M	造都城币	Forge Capital Gold	Stadtgold schmieden
+M	捐都城币	Contribute Capital Gold	Stadtgold spenden
+M	升战宠（都不选随机升）	Upgrade pets (none selected = random)	Tiere verbessern (keine Auswahl = zufällig)
+M	用战宠药水	Use Pet Potion	Tiertrank verwenden
+M	菜希	L.A.S.S.I	L.A.S.S.I
+M	闪枭	Electro Owl	Elektroeule
+M	大牦	Mighty Yak	Mächtiger Yak
+M	独角	Unicorn	Einhorn
+M	冰牙	Frosty	Frosty
+M	地兽	Diggy	Diggy
+M	猛蜥	Poison Lizard	Giftechse
+M	凤凰	Phoenix	Phönix
+M	灵狐	Spirit Fox	Geisterfuchs
+M	水母	Angry Jelly	Wütende Qualle
+M	啊啾	Sneezy	Sneezy
+M	渡鸦	Greedy Raven	Gieriger Rabe
+M	升装备	Upgrade equipment	Ausrüstung verbessern
+M	只升穿戴的装备	Only upgrade equipped gear	Nur getragene Ausrüstung verbessern
+M	蛮王:	King:	König:
+M	尖刺足球	Spiky Ball	Stachelball
+M	野蛮人木偶	Barbarian Puppet	Barbarenpuppe
+M	狂暴药水瓶	Rage Vial	Wutflasche
+M	地震金靴	Earthquake Boots	Erdbebenstiefel
+M	治疗胡须	Vampstache	Vampirschnurrbart
+M	女皇:	Queen:	Königin:
+M	冰封箭矢	Frozen Arrow	Frostpfeil
+M	克隆魔镜	Magic Mirror	Zauberspiegel
+M	动作人偶	Action Figure	Actionfigur
+M	隐形药水瓶	Invisibility Vial	Unsichtbarkeitsflasche
+M	巨型箭矢	Giant Arrow	Riesenpfeil
+M	弓箭手木偶	Archer Puppet	Bogenschützinnen-Puppe
+M	天使木偶	Healer Puppet	Heilerinnenpuppe
+M	王子:	Prince:	Prinz:
+M	暗黑皇冠	Dark Crown	Dunkle Krone
+M	护卫玩偶	Henchmen Puppet	Schergenpuppe
+M	暗黑魔球	Dark Orb	Dunkle Sphäre
+M	贵族哑铃	Noble Iron	Edelhantel
+M	铁甲短裤	Metal Pants	Metallhose
+M	守卫:	Warden:	Wächter:
+M	永恒书卷	Eternal Tome	Ewiger Wälzer
+M	生命宝石	Life Gem	Lebensjuwel
+M	治疗书卷	Healing Tome	Buch der Besserung
+M	狂暴宝石	Rage Gem	Wutjuwel
+M	飞盾:	Champion:	Champion:
+M	寻踪飞盾	Seeking Shield	Zielsuchender Schild
+M	皇家宝石	Royal Gem	Königliches Juwel
+M	野猪骑士木偶	Hog Rider Puppet	Schweinereiter-Puppe
+M	急速药水瓶	Haste Vial	Tempoflasche
+M	冷冽冰晶	Frost Flake	Frostflocke
+M	公爵:	Duke:	Herzog:
+M	烈焰之心	Fire Heart	Feuerherz
+M	爆震器	Stun Blaster	Betäubungs-Blaster
+M	助燃器	Flame Blower	Flammengebläse
+M	雷电獠牙	Electro Fangs	Elektrozähne
+M	接主竞赛	Clan Games (Home)	Clanspiele (Haupt)
+M	接夜竞赛	Clan Games (Builder)	Clanspiele (Bauarbeiter)
+M	积分只做到4000	Max 4000 pts	Max. 4000 Punkte
+M	领竞赛奖励	Claim Clan Games rewards	Clanspiele-Belohnungen abholen
+M	领令牌奖励	Claim Gold Pass rewards	Goldpass-Belohnungen abholen
+M	刷部落靓标签，部落起名：	Farm a nice clan tag, clan name:	Schönen Clankürzel farmen, Clanname:
+M	设置	Settings	Einstellungen
+M	刷部落靓标签，金币 ＜ 25% 时打鱼	Farm nice clan tag; farm when Gold < 25%	Schönen Clankürzel farmen; farmen wenn Gold < 25 %
+M	自动换部落	Auto-switch clan	Clan automatisch wechseln
+M	喊话	Send chat messages	Chat-Nachrichten senden
+M	喊话频率（分）：	Chat interval (min):	Chat-Intervall (Min.):
+M	喊话说明：多句喊话用‘tab’隔开，比如：你好tab在干嘛，第一句会发 你好，第二句发在干嘛。	Chat help: separate multiple messages with 'tab', e.g. hellotabhow are you - 1st message sends 'hello', 2nd sends 'how are you'.	Chat-Hilfe: Mehrere Nachrichten mit „tab“ trennen, z. B. hallotabwie geht's – die 1. Nachricht sendet „hallo“, die 2. „wie geht's“.
+M	发友谊战	Post friendly challenge	Freundschaftskampf posten
+M	普通	Normal	Normal
+M	电竞	Esports	E-Sport
+M	传奇1	Legend 1	Legende 1
+M	传奇2	Legend 2	Legende 2
+M	传奇3	Legend 3	Legende 3
+M	随机	Random	Zufall
+M	发友谊战间隔（秒）：	Challenge interval (sec):	Freundschaftskampf-Intervall (Sek.):
+M	随机换图	Random layout	Zufälliges Layout
+M	邀请人 间隔(分)	Invite, every (min)	Einladen, alle (Min.)
+M	邀请人切换语言，勾选的语言按顺序切换	Invite filter: checked languages are cycled in order	Einladungsfilter: angehakte Sprachen werden der Reihe nach durchgeschaltet
+M	英语	English	Englisch
+M	法语	French	Französisch
+M	德语	German	Deutsch
+M	西班牙语	Spanish	Spanisch
+M	意大利语	Italian	Italienisch
+M	荷兰语	Dutch	Niederländisch
+M	挪威语	Norwegian	Norwegisch
+M	葡萄牙语	Portuguese	Portugiesisch
+M	土耳其语	Turkish	Türkisch
+M	简体中文	Simpl. Chinese	Vereinf. Chinesisch
+M	日本语	Japanese	Japanisch
+M	韩语	Korean	Koreanisch
+M	俄语	Russian	Russisch
+M	繁体中文	Trad. Chinese	Trad. Chinesisch
+M	阿拉伯语	Arabic	Arabisch
+M	波斯语	Persian	Persisch
+M	印度尼西亚语	Indonesian	Indonesisch
+M	马来西亚语	Malay	Malaiisch
+M	越南语	Vietnamese	Vietnamesisch
+M	泰语	Thai	Thai
+M	芬兰语	Finnish	Finnisch
+M	其他	Other	Andere
+M	发部落公告 间隔(秒)	Clan announcement, every (s)	Clan-Ankündigung, alle (Sek.)
+M	发部落邮件：	Send Clan Mail:	Clan-Mail senden:
+M	发部落邮件间隔(分)不填默认1440分钟：	Clan Mail interval (min), empty = 1440:	Clan-Mail-Intervall (Min.), leer = 1440:
+M	繁荣度>=	Prosperity >=	Wohlstand >=
+M	部落踢人，人数>=	Kick members when clan size >=	Mitglieder kicken ab Clangröße >=
+M	踢人间隔：(分)不填默认30分钟	Kick interval (min), empty = 30	Kick-Intervall (Min.), leer = 30
+M	踢人留言：	Kick message:	Kick-Nachricht:
+M	有职位不踢	Don't kick members with a role	Mitglieder mit Rang nicht kicken
+M	成员排序条件：	Sort members by:	Mitglieder sortieren nach:
+M	按繁荣度递减（国服）	Prosperity, high to low (CN server)	Wohlstand, absteigend (CN-Server)
+M	按奖杯排列	Trophies	Trophäen
+M	按大本营等级递减	Town Hall level, high to low	Rathaus-Level, absteigend
+M	按职位排列	Role	Rang
+M	按上次登录时间递减	Last online, newest first	Zuletzt online, neueste zuerst
+M	按增援递减	Troops donated, high to low	Gespendete Truppen, absteigend
+M	按收到的增援递减	Troops received, high to low	Erhaltene Truppen, absteigend
+M	按经验等级递减	XP level, high to low	XP-Level, absteigend
+M	按成员排序后，踢最下面的	After sorting, kick the member at the bottom	Nach der Sortierung das unterste Mitglied kicken
+M	发部落战	Start Clan War	Clankrieg starten
+M	部落战成员全挂绿牌	Set all members' war preference to In (green)	Kriegsbereitschaft aller Mitglieder auf „Dabei“ (grün) setzen
+M	发联赛战	Sign up for CWL	Für CKL anmelden
+M	规模：30or15人	Size: 30 or 15	Größe: 30 oder 15
+M	规模：15人	Size: 15	Größe: 15
+M	规模：30人	Size: 30	Größe: 30
+M	打部落战	Attack in Clan War	Im Clankrieg angreifen
+M	留1刀	Keep 1 attack	1 Angriff übrig lassen
+M	打联赛战	Attack in CWL	In der CKL angreifen
+M	发放对战奖励	Distribute CWL bonuses	CKL-Boni verteilen
+M	部落战使用账号	War uses acct	Krieg nutzt Konto
+M	的造兵配置和下兵方式	army/deploy	Armee/Einsatz
+M	打部落战第2次进攻：从最后一名往上找	2nd war attack: search up from the last base	2. Kriegsangriff: von der letzten Basis aufwärts suchen
+M	打部落战第2次进攻：从推荐敌营往下找	2nd war attack: search down from suggested target	2. Kriegsangriff: ab empfohlenem Ziel abwärts suchen
+M	部落战强化军队	Boost army in Clan War	Armee im Clankrieg verstärken
+M	部落战买援兵：不买援兵	War reinforcements: don't buy	Kriegs-Verstärkung: nicht kaufen
+M	部落战买援兵：蛋糕买援兵	War reinforcements: buy with Cake	Kriegs-Verstärkung: mit Kuchen kaufen
+M	部落战买援兵：蛋糕+都城币	War reinforcements: Cake + Capital Gold	Kriegs-Verstärkung: Kuchen + Stadtgold
+M	部落战捐:	Donate to war CC:	In Kriegs-Clanburg spenden:
+M	野蛮	Barb	Barb
+M	弓箭	Archer	Bogi
+M	巨人	Giant	Riese
+M	小偷	Goblin	Kobold
+M	炸弹	WB	Wallbr.
+M	气球	Loon	Ballon
+M	法师	Wizard	Magier
+M	天使	Healer	Heiler
+M	飞龙	Dragon	Drache
+M	皮卡	PEKKA	PEKKA
+M	龙宝	Baby D	Baby-D
+M	矿工	Miner	Minenarb.
+M	雷龙	E-Drag	Elektrodrache
+M	雪怪	Yeti	Yeti
+M	龙骑	D-Rider	Drachenr.
+M	泰坦	E-Titan	Elektrotitanin
+M	根骑	R-Rider	W-Reiter
+M	亡灵	Minion	Lakai
+M	野猪	Hog	Schwein
+M	武神	Valk	Walküre
+M	石头	Golem	Golem
+M	女巫	Witch	Hexe
+M	猎犬	Lava	Lava
+M	投手	Bowler	Kegler
+M	冰人	Ice Golem	Eisgolem
+M	猎手	Headhunter	Kopfgeld.
+M	学徒	Appr.Warden	Lehrl.-Wächt.
+M	鲁伊	Druid	Druide
+M	超蛮	S.Barb	S-Barb
+M	超弓	S.Archer	S-Bogi
+M	超偷	Sneaky Gob	Schleichkobold
+M	超炸	S.WB	S-Wallbr.
+M	超巨	S.Giant	S-Riese
+M	超球	R.Loon	Rak-Ballon
+M	超法	S.Wizard	S-Magier
+M	超龙	S.Dragon	S-Drache
+M	超宝	Inferno D	Inferno-D
+M	超亡	S.Minion	Superlakai
+M	超武	S.Valk	S-Walküre
+M	超巫	S.Witch	S-Hexe
+M	超犬	Ice Hound	Eishund
+M	超投	S.Bowler	S-Kegler
+M	超矿	S.Miner	S-Minenarb.
+M	超猪	S.Hog	S-Schwein
+M	巨矛	Thrower	Werfer
+M	熔炉	Furnace	Schmelzofen
+M	超怪	S.Yeti	S-Yeti
+M	陨石	Meteor Golem	Meteorgolem
+M	废墟	Ruin Witch	Ruinenhexe
+M	陨石戈仑	Meteor Golem	Meteorgolem
+M	废墟女巫	Ruin Witch	Ruinenhexe
+M	雷电	Lightning	Blitz
+M	疗伤	Heal	Heilung
+M	狂暴	Rage	Wut
+M	弹跳	Jump	Sprung
+M	冰冻	Freeze	Frost
+M	镜像	Clone	Klon
+M	隐形	Invis	Unsichtb.
+M	回溯	Recall	Rückruf
+M	复苏	Revive	Wiederbel.
+M	图腾	Totem	Totem
+M	毒药	Poison	Gift
+M	地震	Quake	Beben
+M	急速	Haste	Eile
+M	骷髅	Skeleton	Skelett
+M	蝙蝠	Bat	Fledermaus
+M	蔓生	Overgrowth	Überwuch.
+M	冰障	Ice Block	Eisblock
+M	愤怒法术	Angry Spell	Grummelzauber
+M	战车	Wall Wrecker	Mauerbrecher
+M	飞艇	Blimp	Luftschiff
+M	战球	Slammer	Rammer
+M	战营	S.Barracks	B-Kaserne
+M	滚木	Log Launcher	Baumstammwerfer
+M	烈焰	Flame Flinger	Flammenschleuder
+M	钻机	Battle Drill	Kampfbohrer
+M	部队发射器	Troop Launcher	Truppenwerfer
+M	空中战车	Sky Wagon	Himmelsbrecher
+M	=======捐兵和正常模式互切=======	=== Donate mode / Normal mode switching ===	=== Wechsel Spenden-/Normalmodus ===
+M	切到捐兵模式时不打鱼，切到正常模式时也打鱼也捐兵（如果捐兵+打鱼，直接勾选捐兵打鱼就行，一般用不到互切功能）	Donate mode: no farming. Normal mode: farms and donates. (If you just want farming + donating, tick Donate troops and Farming - you normally don't need switching)	Spendenmodus: kein Farmen. Normalmodus: farmt und spendet. (Wenn du nur farmen + spenden willst, hake „Truppen spenden“ und „Farmen“ an – der Wechsel wird normalerweise nicht gebraucht)
+M	捐兵模式和正常模式互切	Switch between Donate and Normal mode	Zwischen Spenden- und Normalmodus wechseln
+M	根据时间互切	Switch by time	Nach Zeit wechseln
+M	只根据资源条件互切	Switch by resources only	Nur nach Ressourcen wechseln
+M	根据资源条件+胜利之星	By resources + Star Bonus	Nach Ressourcen + Siegesstern-Bonus
+M	只根据胜利之星互切	By Star Bonus only	Nur nach Siegesstern-Bonus
+M	根据时间+资源	By time + resources	Nach Zeit + Ressourcen
+M	捐兵模式时:	In Donate mode:	Im Spendenmodus:
+M	竞赛相关功能	Clan Games features	Clanspiele-Funktionen
+M	刷经验	Farm XP	XP farmen
+M	主村庄升科技	Home: lab upgrades	Haupt: Laborupgrades
+M	主村庄升建筑	Home: building upgrades	Haupt: Gebäudeupgrades
+M	夜村庄升科技	Builder: lab upgrades	Bauarbeiterbasis: Laborupgrades
+M	夜村庄升建筑	Builder: building upgrades	Bauarbeiterbasis: Gebäudeupgrades
+M	部落相关功能	Clan features	Clan-Funktionen
+M	捐部落战援兵	Donate to war CCs	In Kriegs-Clanburg spenden
+M	都城相关功能	Clan Capital features	Clanstadt-Funktionen
+M	买卖物品	Buy/sell items	Items kaufen/verkaufen
+M	捐兵模式时间	Donate mode time	Spendenmodus-Zeit
+M	：	:	:
+M	到	to	bis
+M	(24小时制)	(24h)	(24 Std.)
+M	↓↓可以利用互切时间定时上下线↓↓	↓↓ Use the switch times to go offline on a schedule ↓↓	↓↓ Mit den Wechselzeiten kannst du nach Zeitplan offline gehen ↓↓
+M	根据时间切到正常模式时，下线休息	Go offline when switching to Normal mode (by time)	Offline gehen beim Wechsel in den Normalmodus (nach Zeit)
+M	根据时间切到捐兵模式时，下线休息	Go offline when switching to Donate mode (by time)	Offline gehen beim Wechsel in den Spendenmodus (nach Zeit)
+M	如果金≥	If Gold ≥	Wenn Gold ≥
+M	%并且水≥	% and Elixir ≥	% und Elixier ≥
+M	%并且黑≥	% and DE ≥	% und DE ≥
+M	%切成捐兵模式	% -> Donate mode	% -> Spendenmodus
+M	如果金≤	If Gold ≤	Wenn Gold ≤
+M	%或者水≤	% or Elixir ≤	% oder Elixier ≤
+M	%或者黑≤	% or DE ≤	% oder DE ≤
+M	%切成正常模式	% -> Normal mode	% -> Normalmodus
+M	注意：如果刚启动脚本无法触发这些资源条件，那就默认先正常模式。	Note: if neither condition is met when the script starts, it starts in Normal mode.	Hinweis: Ist beim Skriptstart keine Bedingung erfüllt, startet es im Normalmodus.
+M	自动审批，暗号:	Auto-accept join requests, password:	Beitritte automatisch annehmen, Passwort:
+M	拒绝错误暗号	Reject wrong password	Falsches Passwort ablehnen
+M	暗号只能纯数字，多个暗号用“-”号隔开，例：555-666	Password must be digits only; separate several with '-', e.g. 555-666	Passwort nur aus Ziffern; mehrere mit „-“ trennen, z. B. 555-666
+M	自动进部落，标签	Auto-join clan, tag	Clan automatisch beitreten, Tag
+M	可以输入多个部落标签，比如轮流切换指定部落捐兵	You can enter several clan tags, e.g. to rotate between clans for donating	Du kannst mehrere Clankürzel eingeben, z. B. um zum Spenden zwischen Clans zu wechseln
+M	多个标签时切换间隔	Switch interval with multiple tags	Wechselintervall bei mehreren Tags
+M	秒【仅单开生效】	sec [single instance only]	Sek. [nur Einzelinstanz]
+M	自动进部落，暗号	Auto-join clan, password	Clan automatisch beitreten, Passwort
+M	返回部落标签	Return-to clan tag	Rückkehr-Clankürzel
+M	暗号	Password	Passwort
+M	退出部落（注意：有职位不退）	Leave clan (won't leave if you have a role)	Clan verlassen (nicht, wenn du einen Rang hast)
+M	刷经验：        不刷经验	XP farming: off	XP-Farmen: aus
+M	刷经验：刷哥布林野餐	XP farming: Goblin Picnic	XP-Farmen: Koboldpicknick
+M	刷经验：        刷竞技场	XP farming: Arena	XP-Farmen: Arena
+M	每轮次数	Times per round	Anzahl pro Runde
+M	整体速度：	Overall speed:	Gesamtgeschwindigkeit:
+M	慢速	Slow	Langsam
+M	中速	Medium	Mittel
+M	快速	Fast	Schnell
+M	极快	Very fast	Sehr schnell
+M	点主进攻后等待加	Extra wait after Attack:	Extra-Wartezeit nach Angriff:
+M	毫秒(自己测试适量增加)	ms (raise if needed)	ms (bei Bedarf erhöhen)
+M	滑动过程用时加	Extra swipe duration:	Extra-Wischdauer:
+M	毫秒	ms	ms
+M	自定义滑动定位(快)滑动距离:	Custom swipe positioning (fast), distance:	Benutzerdef. Wisch-Positionierung (schnell), Distanz:
+M	去测试	Test	Test
+M	注意：刷经验地图要和测试定位的地图一致	Note: the XP map must be the same map you tested positioning on	Hinweis: Die XP-Karte muss dieselbe sein wie beim Positionstest
+M	注意：王必须用默认技能，游戏部署栏用默认大小	Note: heroes must use default abilities; keep the deploy bar at default size	Hinweis: Helden müssen Standardfähigkeiten nutzen; Einsatzleiste in Standardgröße lassen
+M	=========打鱼设置==========	======= Farming Settings =======	======= Farm-Einstellungen =======
+M	等援兵	Wait for CC troops	Auf Clanburg-Truppen warten
+M	任何时候	Always	Immer
+M	仅部落战	Clan War only	Nur Clankrieg
+M	仅排位战	Ranked only	Nur Rangliste
+M	部落战+排位战	Clan War + Ranked	Clankrieg + Rangliste
+M	手动设置搜鱼条件（不选默认自动分配）	Manual search loot conditions (unticked = auto)	Beutebedingungen manuell (nicht angehakt = automatisch)
+M	搜鱼金	Min Gold	Min. Gold
+M	搜鱼水	Min Elixir	Min. Elixier
+M	搜鱼黑	Min DE	Min. DE
+M	下兵前强化军队	Boost army before deploying	Armee vor Einsatz verstärken
+M	自动战斗	Auto battle	Auto-Kampf
+M	死鱼下兵方式1：四面双指滑屏	Dead base deploy 1: all 4 sides, two-finger swipe	Tote Basis, Einsatz 1: alle 4 Seiten, Zwei-Finger-Wischen
+M	死鱼下兵方式2：随机单面仿滑屏	Dead base deploy 2: random side, simulated swipe	Tote Basis, Einsatz 2: zufällige Seite, simuliertes Wischen
+M	死鱼下兵方式3：随机单面真滑屏	Dead base deploy 3: random side, real swipe	Tote Basis, Einsatz 3: zufällige Seite, echtes Wischen
+M	强攻：搜到资源大于目标的	Force attack (live base) if loot is more than	Erzwungener Angriff (Live-Basis), wenn Beute mehr als
+M	倍强制进攻	x the target	x das Ziel
+M	强攻和部落战下兵方式1：四面双指滑屏	Live base / war deploy 1: all 4 sides, two-finger swipe	Live-Basis/Krieg, Einsatz 1: alle 4 Seiten, Zwei-Finger-Wischen
+M	强攻和部落战下兵方式2：随机单面仿滑屏	Live base / war deploy 2: random side, simulated swipe	Live-Basis/Krieg, Einsatz 2: zufällige Seite, simuliertes Wischen
+M	强攻和部落战下兵方式3：随机单面真滑屏	Live base / war deploy 3: random side, real swipe	Live-Basis/Krieg, Einsatz 3: zufällige Seite, echtes Wischen
+M	下援兵	Deploy CC troops	Clanburg-Truppen einsetzen
+M	下机器	Deploy Siege Machine	Belagerungsmaschine einsetzen
+M	优先用援兵里的机器	Prefer siege from CC	Belagerung aus Clanburg bevorzugen
+M	下王	Deploy heroes	Helden einsetzen
+M	下法术	Deploy spells	Zauber einsetzen
+M	劈采集器	Zap collectors	Sammler zappen
+M	金＜	Gold <	Gold <
+M	水＜	Elixir <	Elixier <
+M	黑＜	DE <	DE <
+M	% 回营	% -> end battle	% -> Kampf beenden
+M	资源和摧毁率	loot & dest.	Beute & Zerstörung
+M	%回营	% -> end battle	% -> Kampf beenden
+M	秒不变回营，摧毁率>=	s no change -> end, dest. >=	Sek. keine Änderung -> beenden, Zerstörung >=
+M	下完兵重启游戏（单开时勾选捐兵才生效，多开时最后一次打鱼生效）	Restart game after deploying (single instance: only with Donate ticked; multi-instance: after last farm attack)	Spiel nach Einsatz neu starten (Einzelinstanz: nur mit „Spenden“ angehakt; Mehrfachinstanz: nach letztem Farm-Angriff)
+M	=======造兵设置（主）=======	===== Army Training (Home) =====	===== Armeetraining (Haupt) =====
+M	单面下兵支持自动清边，携带以下兵种：2雷龙，或4飞龙，或4龙宝，或6超蛮	One-side deploy can auto-clear edges if army has: 2 E-Drags, or 4 Dragons, or 4 Baby Dragons, or 6 Super Barbs	Einseitiger Einsatz kann Ränder automatisch räumen, wenn die Armee Folgendes hat: 2 Elektrodrachen, oder 4 Drachen, oder 4 Baby-Drachen, oder 6 Super-Barbaren
+M	自动造兵：胖-弓-蛮	Auto army: Giant-Archer-Barb	Auto-Armee: Riese-Bogenschützin-Barbar
+M	造兵方式：手动设置	Army: manual	Armee: manuell
+M	计算	Calculate	Berechnen
+M	此号第一次运行先删兵重做一次	First run on this account: delete and retrain army	Erster Lauf mit diesem Konto: Armee löschen und neu trainieren
+M	使用分享链接：	Use army share link:	Armee-Link verwenden:
+M	删	Del	Lösch.
+M	活动兵	Event troop	Event-Truppe
+M	领活动兵奖励（一般活动不领没有活动兵）	Claim event troop reward (usually needed to unlock the event troop)	Event-Truppenbelohnung abholen (meist nötig, um die Event-Truppe freizuschalten)
+M	（主/夜）升建筑所需宝石低于	(Home/Builder) If finishing an upgrade costs less than	(Haupt/Bauarbeiter) Wenn das Beenden eines Upgrades weniger kostet als
+M	宝石立刻完成！	gems, finish it now!	Juwelen, sofort beenden!
+M	=======升建筑（主）=======	===== Building Upgrades (Home) =====	===== Gebäudeupgrades (Haupt) =====
+M	判断需要工人时用书秒升级时间>	When no builder is free, use Book of Building on upgrades longer than	Wenn kein Bauarbeiter frei ist, Buch des Bauens bei Upgrades länger als
+M	小时的建筑	hours	Stunden verwenden
+M	工人学徒加速建筑	Builder's Apprentice boost	Bauarbeiterlehrling-Boost
+M	用工人药水	Use Builder Potion	Bauarbeitertrank verwenden
+M	学徒优先加速:	Apprentice priority:	Lehrling-Priorität:
+M	学徒加速多个用“-”隔开，输入要加速的建筑全称	Separate multiple with '-'. Enter the full building name IN CHINESE (as shown in game)	Mehrere mit „-“ trennen. Vollständigen Gebäudenamen AUF CHINESISCH eingeben (wie im Spiel angezeigt)
+M	升建筑	Upgrade buildings	Gebäude upgraden
+M	检查频率（分）：	Check interval (min):	Prüfintervall (Min.):
+M	不填则自动	empty = auto	leer = auto
+M	全√	All ✓	Alle ✓
+M	反□	Invert	Umkehren
+M	建筑充能	Supercharge buildings	Gebäude aufladen
+M	不创建新建筑	Don't place new buildings	Keine neuen Gebäude platzieren
+M	升本 升到等级:(不填默认一直升)	Upgrade Town Hall up to level (empty = no limit):	Rathaus upgraden bis Level (leer = unbegrenzt):
+M	蛮王	King	König
+M	女皇	Queen	Königin
+M	王子	Prince	Prinz
+M	守卫	Warden	Wächter
+M	飞盾	Champion	Champion
+M	公爵	Duke	Herzog
+M	金库	Gold Storage	Goldlager
+M	水库	Elixir Storage	Elixierlager
+M	黑库	DE Storage	DE-Lager
+M	城堡	Clan Castle	Clanburg
+M	兵营	Army Camp	Armeelager
+M	训练营	Barracks	Kaserne
+M	暗黑训练营	Dark Barracks	Dunkle Kaserne
+M	法术工厂	Spell Factory	Zauberfabrik
+M	暗黑法术工厂	Dark Spell Factory	Fabrik für Dunkle Zauber
+M	实验室	Laboratory	Labor
+M	战宠屋	Pet House	Tierhaus
+M	铁匠铺	Blacksmith	Schmied
+M	英雄殿堂	Hero Hall	Heldenhalle
+M	机器工坊	Workshop	Werkstatt
+M	加农炮	Cannon	Kanone
+M	←改装	← Gear Up	←Umrüsten
+M	箭塔	Archer Tower	Bogenschützenturm
+M	迫击炮	Mortar	Minenwerfer
+M	空气炮	Air Sweeper	Luftfeger
+M	天鹰炮	Eagle Artillery	Adlerartillerie
+M	炸弹塔	Bomb Tower	Bombenturm
+M	电塔	Hidden Tesla	Versteckte Tesla
+M	地狱塔	Inferno Tower	Infernoturm
+M	法师塔	Wizard Tower	Magierturm
+M	擎天巨柱	Monolith	Monolith
+M	投石炮	Scattershot	Streukatapult
+M	法术塔	Spell Tower	Zauberturm
+M	火箭	Air Defense	Luftabwehr
+M	连弩	X-Bow	X-Bogen
+M	火焰喷射器	Firespitter	Feuerspeier
+M	多人箭塔	Multi-Archer Tower	Multi-Bogenschützenturm
+M	跳弹加农炮	Ricochet Cannon	Querschläger-Kanone
+M	复合机械塔	Multi-Gear Tower	Multi-Entwicklungs-Turm
+M	超级法师塔	Super Wizard Tower	Supermagier-Turm
+M	反击之塔	Revenge Tower	Vergeltungsturm
+M	远袭者	Longshot	Pfeilkopf
+M	粉碎者	Smasher	Drescher
+M	滚木手	Logger	Kampfholzfäller
+M	隐形炸弹	Bomb	Bombe
+M	弹簧	Spring Trap	Sprungfeder
+M	空中炸弹	Air Bomb	Luftbombe
+M	巨型炸弹	Giant Bomb	Riesenbombe
+M	搜空地雷	Seeking Air Mine	Suchende Luftmine
+M	骷髅陷阱	Skeleton Trap	Skelettfalle
+M	飓风陷阱	Tornado Trap	Tornadofalle
+M	终极炸弹	Giga Bomb	Gigabombe
+M	工人小屋	Builder's Hut	Bauarbeiterhütte
+M	采集器	Mines & Collectors	Minen & Sammler
+M	熔岩火炮	Roaster	Brutzler
+M	空中炸弹发射器	Air Bombs	Luftbomben
+M	熔岩发射器	Lava Launcher	Lavawerfer
+M	圣光灯塔	Light Beam	Lichtstrahl
+M	英雄警钟	Hero Bell	Heldenglocke
+M	炸弹蜂巢	Bomb Hive	Bombennest
+M	旋转喷火器	Flame Spinner	Feuerwirbler
+M	钩索塔	Hook Tower	Hakenturm
+M	火热蜡烛	Hot Candle	Heiße Kerze
+M	蛋糕投掷器	Cake-A-Pult	Tortapult
+M	英雄猎台	Hero Hunter	Heldenjägerin
+M	=======升兵种（主）=======	===== Lab Upgrades (Home) =====	===== Laborupgrades (Haupt) =====
+M	升兵种	Upgrade troops	Truppen upgraden
+M	升级到最大等级减	Upgrade up to max level minus	Bis maximales Level minus upgraden:
+M	实验室助手加速	Lab Assistant boost	Laborassistent-Boost
+M	用研究药水	Use Research Potion	Forschungstrank verwenden
+M	用哥布林工人（村庄宝石>500 建筑工人>=5）	Use Goblin Researcher (gems > 500, builders >= 5)	Koboldforscher verwenden (Juwelen > 500, Bauarbeiter >= 5)
+M	===========主村庄升墙==========	===== Walls (Home) =====	===== Mauern (Haupt) =====
+M	升墙预留1个工人	Keep 1 builder for walls	1 Bauarbeiter für Mauern reservieren
+M	金升墙：金≥%	Walls with Gold: Gold ≥ %	Mauern mit Gold: Gold ≥ %
+M	水升墙：水≥%	Walls with Elixir: Elixir ≥ %	Mauern mit Elixier: Elixier ≥ %
+M	======下面是夜世界功能======	==== Builder Base features below ====	==== Bauarbeiterbasis-Funktionen unten ====
+M	打鱼	Farm	Farmen
+M	打满资源，正常打法，金满自动刷圣水车	Until full, normal attack; when Gold is full, farm Elixir Cart	Bis voll, normaler Angriff; bei vollem Gold Elixierwagen farmen
+M	打满资源，1星结束，金满自动刷圣水车	Until full, end after 1 star; when Gold is full, farm Elixir Cart	Bis voll, nach 1 Stern beenden; bei vollem Gold Elixierwagen farmen
+M	打满圣水，没胜利之星的情况下只刷圣水	Fill Elixir; with no Star Bonus left, farm Elixir only	Elixier füllen; ohne Siegesstern-Bonus nur Elixier farmen
+M	一直打，不判断资源（一般情况用不到）	Always attack, ignore resources (rarely needed)	Immer angreifen, Ressourcen ignorieren (selten nötig)
+M	一直打，打到资源满为止（不刷圣水车）	Attack until storages are full (no Elixir Cart)	Angreifen bis Lager voll sind (kein Elixierwagen)
+M	用星瓶	Use Builder Star Jar	Bauarbeiter-Sternenglas verwenden
+M	下完兵重启游戏（国服不建议）	Restart game after deploying (not recommended on CN server)	Spiel nach Einsatz neu starten (auf CN-Server nicht empfohlen)
+M	每次运行到夜打鱼时打	Builder Base attacks per run:	Bauarbeiterbasis-Angriffe pro Lauf:
+M	采集+收集资源车	Collect resources + Elixir Cart	Ressourcen + Elixierwagen sammeln
+M	钟楼加速	Clock Tower boost	Uhrenturm-Boost
+M	用钟楼药水	Use Clock Tower Potion	Uhrenturm-Trank verwenden
+M	=========夜升建筑=========	===== Building Upgrades (Builder) =====	===== Gebäudeupgrades (Bauarbeiter) =====
+M	战争机器	Battle Machine	Kampfmaschine
+M	直升机	Battle Copter	Kampfkopter
+M	升资源库	Storages	Lager
+M	时光钟楼	Clock Tower	Uhrenturm
+M	宝石矿井	Gem Mine	Juwelenmine
+M	奥仔+治疗+工人小屋	O.T.T.O + Healing + Builder Huts	O.T.T.O + Heilung + Bauarbeiterhütten
+M	奥仔哨站	O.T.T.O's Outpost	O.T.T.O.s Außenposten
+M	守卫岗哨	Guard Post	Wachposten
+M	双管加农炮	Double Cannon	Doppelkanone
+M	巨型加农炮	Giant Cannon	Riesenkanone
+M	超级电塔	Mega Tesla	Mega-Tesla
+M	撼地巨石	Crusher	Zerschmetterer
+M	防空火炮	Firecrackers	Kracher
+M	多管迫击炮	Multi Mortar	Multimörser
+M	地雷	Mine	Mine
+M	巨型地雷	Mega Mine	Megamine
+M	弹射陷阱	Push Trap	Stoßfalle
+M	隐形弹簧	Spring Trap	Sprungfalle
+M	优先启用自选，不能自选的则随机升	Prefer ticked ones; if none can upgrade, pick randomly	Angehakte bevorzugen; wenn keine upgraden kann, zufällig wählen
+M	========升兵种（夜）========	===== Lab Upgrades (Builder) =====	===== Laborupgrades (Bauarbeiter) =====
+M	炮车	Cannon Cart	Kanonenwagen
+M	===========夜村庄升墙==========	===== Walls (Builder) =====	===== Mauern (Bauarbeiter) =====
+M	水矿	Elixir Collector	Elixiersammler
+M	油井	Dark Elixir Drill	Dunkle-Elixier-Bohrer
+M	金矿	Gold Mine	Goldmine
+M	治疗小屋	Healing Hut	Heilende Hütte
+M	碎岩迫击炮	Crusher Mortar	Zermalmmörser
+M	精制台	Crafting Station	Fertigungsstation
+M	积分只做到:	Stop at points:	Stopp bei Punkten:
+M	预备营	Reserve Camp	Verstärkungslager
+M	领委托奖励	Claim commission rewards	Kommissionsbelohnungen abholen
+M	首页设置Home	Home	Start
+M	关闭特殊功能	Turn off special mode	Sondermodus beenden
+M	官网注册爱玩账号	Register Aiwan account (website)	Aiwan-Konto registrieren (Website)
+M	登录爱玩账号	Log in to Aiwan account	Beim Aiwan-Konto anmelden
+M	查豆	Check Aidou	Aidou prüfen
+M	官网看教程，进官网是把网址输入到网址栏访问	Tutorials on the website - type the address in the address bar	Anleitungen auf der Website – Adresse in die Adressleiste eingeben
+M	官网看运行状态，设备起名:	Show status on website, device name:	Status auf der Website anzeigen, Gerätename:
+M	所有设备可用同一个爱玩账号，在官网查看状态	All devices can use one Aiwan account; check status on the website	Alle Geräte können ein Aiwan-Konto nutzen; Status auf der Website prüfen
+M	使用QQ授权登录时清除游戏应用数据	Clear game app data when using QQ auth login	Spieldaten beim QQ-Login löschen
+M	（可以解决进游戏无法操作现象，可能影响数据包多开）	(fixes 'can't control the game', may affect data-package multi-account)	(behebt „Spiel lässt sich nicht bedienen“, kann Datenpaket-Multi-Account beeinflussen)
+M	（国）支持创作者，代码	(CN) Support a creator, code	(CN) Creator unterstützen, Code
+M	领腾讯的签到	Claim Tencent daily check-in	Tencent-Tagesbonus abholen
+M	用开箱奖励物品	Use items from chest rewards	Gegenstände aus Truhenbelohnungen verwenden
+M	领商店休闲卡/加速季卡/礼包（国服）	Claim shop cards/season boost/packs (CN)	Shop-Karten/Boost-Saisonkarte/Pakete abholen (CN-Server)
+M	删除QQ授权数据（换机必点)	Delete QQ auth data (required when changing phone)	QQ-Autorisierungsdaten löschen (beim Gerätewechsel Pflicht)
+M	上报BUG截图工具	Bug report screenshot tool	Screenshot-Tool für Fehlerberichte
+M	注意：换机前登出爱玩账号，和删除QQ授权数据，如果你是国际服记得把“/sdcard/爱琦国际”文件夹提前压缩备上传到云盘后删除，因为某些云手机到期不会重置	Note: before changing phone, log out of Aiwan and delete QQ auth data. Global players: zip and back up the '/sdcard/爱琦国际' folder to the cloud first, then delete it - some cloud phones don't reset when they expire	Hinweis: Vor einem Gerätewechsel beim Aiwan-Konto abmelden und die QQ-Autorisierungsdaten löschen. Spieler der internationalen Version: den Ordner „/sdcard/爱琦国际“ vorher als ZIP in die Cloud sichern und dann löschen, da manche Cloud-Handys nach Ablauf nicht zurückgesetzt werden
+M	自己抓取QQ授权，也可以用下面↓这个工具抓取	Capture QQ auth yourself, or use the tool below ↓	QQ-Autorisierung selbst abgreifen oder das Tool unten ↓ nutzen
+M	数据包提取+数据包切号+QQ授权抓取和上号工具	Data package extract + account switch + QQ auth tool	Datenpaket extrahieren + Kontowechsel + QQ-Autorisierung abgreifen und anmelden (Tool)
+M	上传配置，配置名:	Upload config, name:	Konfiguration hochladen, Name:
+M	查看/下载配置	View/download configs	Konfigurationen ansehen/herunterladen
+M	查看统计  账号:	View stats  account:	Statistik ansehen  Konto:
+M	单开在线时间	Online time (single)	Online-Zeit (einzeln)
+M	小时，下线	h, then offline	Std., dann offline
+M	顶号倒计时	Wait when kicked (account used elsewhere)	Wartezeit nach Kick (Konto anderswo genutzt)
+M	等顶号倒计时结束再继续	Continue after the kick countdown	Nach Ablauf der Kick-Wartezeit fortfahren
+M	飘白云超时	Clouds timeout	Wolken-Timeout
+M	搜鱼延迟	Search delay	Such-Verzögerung
+M	秒（出现服务器不同步适增加延迟）	s (increase if you get server out-of-sync)	Sek. (bei Server-Desync erhöhen)
+M	搜鱼≥	Searches ≥	Suchen ≥
+M	次时回营，  放兵速度	-> go home,  deploy speed	Mal -> Heimkehr,  Einsatzgeschwindigkeit
+M	账号设置Account	Account	Kontoeinstellungen
+M	账号记忆Continue from the last stopped account	Resume from the last stopped account	Vom zuletzt gestoppten Konto fortsetzen
+M	开账号设置	Open account settings	Kontoeinstellungen öffnen
+M	的设置批量应用到	settings -> apply to	Einstellungen anwenden auf
+M	使用图形造兵界面(打开设置会变慢一点)	Use graphical army editor (settings open a bit slower)	Grafischen Armee-Editor verwenden (Einstellungen öffnen etwas langsamer)
+M	当大本营>=	When Town Hall >=	Wenn Rathaus >=
+M	本时，关闭此号	, disable this account	, dieses Konto deaktivieren
+M	[谷歌Google]：	[Google]:	[Google]:
+M	特殊功能special	Special	Sonderfunktionen
+M	特殊功能里默认使用【账号设置】里第一个开启的号	Special modes use the first enabled account from [Account]	Sonderfunktionen nutzen standardmäßig das erste aktivierte Konto aus [Konto]
+M	特殊功能：关闭	Special mode: off	Sondermodus: aus
+M	优先用QQ授权工具上号	Prefer QQ auth tool for login	Anmeldung bevorzugt über das QQ-Autorisierungstool
+M	谷歌切号数据包在/sdcard/爱琦国际/	Google data packages are in /sdcard/爱琦国际/	Google-Datenpakete liegen in /sdcard/爱琦国际/
+M	"文件夹序号"	"folder number"	„Ordnernummer“
+M	腾讯切号数据包在/sdcard/爱琦国服/	Tencent data packages are in /sdcard/爱琦国服/	Tencent-Datenpakete liegen in /sdcard/爱琦国服/
+M	可在首页手动提取数据包	You can extract data packages manually on Home	Datenpakete können manuell auf der Startseite extrahiert werden
+M	=========捐都城币设置=========	===== Capital Gold donation =====	===== Stadtgold-Spende =====
+M	账号记忆	Resume account	Konto fortsetzen
+M	账号序号：从	Account number: from	Kontonummer: von
+M	捐给部落标签：	Donate to clan tag:	An Clan spenden, Clankürzel:
+M	进部落暗号:(没有则不用填)	Clan password: (leave empty if none)	Clan-Passwort: (leer lassen, falls keins)
+M	退出部落	Leave clan	Clan verlassen
+M	返回指定部落标签:	Return to clan tag:	Zurück zu Clan, Clankürzel:
+M	返回暗号:(没有则不用填)	Return password: (leave empty if none)	Rückkehr-Passwort: (leer lassen, falls keins)
+M	返回暗号:(没有则不用填):	Return password: (leave empty if none):	Rückkehr-Passwort: (leer lassen, falls keins):
+M	捐币数量>=	Donate when Capital Gold >=	Spenden ab Stadtgold >=
+M	都城之颠	Capital Peak	Stadtgipfel
+M	野蛮人兵营	Barbarian Camp	Barbarenlager
+M	法师山谷	Wizard Valley	Magiertal
+M	气球坏礁	Balloon Lagoon	Ballonlagune
+M	建筑工人工坊	Builder's Workshop	Bauarbeiterschmiede
+M	飞龙悬崖	Dragon Cliffs	Drachenklippen
+M	戈仑石场	Golem Quarry	Golem-Steinbruch
+M	骷髅公园	Skeleton Park	Skelettpark
+M	哥布林矿	Goblin Mines	Koboldminen
+M	======谷歌起号+循环运行=======	== Google: create accounts + loop ==	== Google: Konten erstellen + Schleife ==
+M	自定义起名（不选默认随机）:	Custom name (unticked = random):	Eigener Name (nicht gewählt = zufällig):
+M	起名后缀：	Name suffix:	Namenssuffix:
+M	当前账号的序号	current account number	Aktuelle Kontonummer
+M	起号自动保存在/sdcard/爱琦国际/文件夹序号	New accounts are saved to /sdcard/爱琦国际/<folder number>	Neue Konten werden in /sdcard/爱琦国际/<Ordnernummer> gespeichert
+M	已有的账号不会覆盖，没有的账号辅助会补上。	Existing accounts aren't overwritten; missing ones are filled in.	Vorhandene Konten werden nicht überschrieben, fehlende werden ergänzt.
+M	====保存统计村庄数据设置====	==== Save village stats ====	==== Dorfstatistik speichern ====
+M	保存村庄数据到/sdcard/	Save village data to /sdcard/	Dorfdaten speichern unter /sdcard/
+M	=====突袭偷袭，打野模式=====	==== Raid mercenary mode ====	==== Söldner-Überfallmodus ====
+M	进部落标签，不填随机加入	Clan tag to join (empty = random)	Clankürzel zum Beitreten (leer = zufällig)
+M	支持填多个标签循环进，进完所有标签还没打成功就随机加入	Several tags are tried in turn; if none works, join a random clan	Mehrere Tags werden nacheinander versucht; klappt keiner, wird ein zufälliger Clan gewählt
+M	随机加部落，满足都城	Join random clan with Capital Hall	Zufälligem Clan beitreten mit Stadtrathaus
+M	级的部落	level clan	-Clan
+M	======按序号循环运行======	==== Loop accounts by number ====	==== Konten nach Nummer durchlaufen ====
+M	=====快速删援兵求援模式=====	==== Fast remove-CC + request mode ====	==== Schnellmodus: Clanburg leeren + Anfordern ====
+M	设备卡的请勾选这个	Tick this if your device lags	Bei Geräte-Lags bitte anhaken
+M	载入分享军队配置链接	Load shared army link	Geteilten Armee-Link laden
+M	链接：	Link:	Link:
+M	空援兵再尝试载入	Retry loading when CC is empty	Bei leerer Clanburg erneut laden
+M	输入请求内容：	Request message:	Anfrage-Text:
+M	进部落 标签:	Join clan, tag:	Clan beitreten, Clankürzel:
+M	暗号:	Password:	Passwort:
+M	退部落 求援后检测	Leave clan, check after request	Clan verlassen, nach Anfrage prüfen
+M	毫秒退出部落	ms, then leave clan	ms, dann Clan verlassen
+M	运行最后一个号等待	Wait on the last account	Beim letzten Konto warten
+M	等求援冷却：时间<=	Wait for request cooldown: time <=	Auf Anfrage-Abklingzeit warten: Zeit <=
+M	分时等冷却	min -> wait for cooldown	Min. -> auf Abklingzeit warten
+M	======战争基地换阵======	==== War base layout switch ====	==== Kriegsbasis wechseln ====
+M	换阵账号记忆	Resume layout-switch account	Konto für Basiswechsel fortsetzen
+M	使用战争基地	Use war base	Kriegsbasis verwenden
+M	号阵型	layout no.	Layout Nr.
+M	======村庄改名======	==== Rename village ====	==== Dorf umbenennen ====
+M	改名账号记忆	Resume rename account	Konto für Umbenennung fortsetzen
+M	村庄名改成：	New village name:	Neuer Dorfname:
+M	加当前序号后缀	Add account number as suffix	Kontonummer als Suffix anhängen
+M	计算单位	Units	Einheiten
+M	谷歌起号+循环运行	Google: create accounts + loop	Google: Konten erstellen + Schleife
+M	保存统计村庄数据	Save village stats	Dorfstatistik speichern
+M	突袭偷袭，打野模式	Raid mercenary mode	Söldner-Überfallmodus
+M	按序号循环运行	Loop accounts by number	Konten nach Nummer durchlaufen
+M	快速删援兵求援模式	Fast remove-CC + request mode	Schnellmodus: Clanburg leeren + Anfordern
+M	战争基地换阵模式	War base layout switch	Kriegsbasis-Wechselmodus
+M	村庄改名	Rename village	Dorf umbenennen
+M	特殊功能已选：捐都城币	Special mode: donate Capital Gold	Sondermodus gewählt: Stadtgold spenden
+M	特殊功能已选：谷歌起号+循环运行	Special mode: Google create accounts + loop	Sondermodus gewählt: Google-Konten erstellen + Schleife
+M	特殊功能已选：保存统计村庄数据	Special mode: save village stats	Sondermodus gewählt: Dorfstatistik speichern
+M	特殊功能已选：突袭偷袭，打野模式	Special mode: raid mercenary	Sondermodus gewählt: Söldner-Überfall
+M	特殊功能已选：按序号循环运行	Special mode: loop accounts by number	Sondermodus gewählt: Konten nach Nummer durchlaufen
+M	特殊功能已选：快速删援兵求援模式	Special mode: fast remove-CC + request	Sondermodus gewählt: Clanburg leeren + Anfordern
+M	特殊功能已选：战争基地换阵模式	Special mode: war base layout switch	Sondermodus gewählt: Kriegsbasis wechseln
+M	特殊功能已选：村庄改名	Special mode: rename village	Sondermodus gewählt: Dorf umbenennen
+M	图腾投手	Totem Thrower	Totemwerfer
+M	皇家幽灵	Royal Ghost	Königsgeist
+M	熔岩气球	Lavaloon	Ballonhund
+M	女巫戈仑	Witch Golem	Hexengolem
+M	骷髅巨人	Giant Skeleton	Riesenskelett
+M	提取成功	Extracted	Extrahiert
+M	删除成功	Deleted	Gelöscht
+M	你没安装QQ授权工具	QQ auth tool not installed	QQ-Autorisierungstool nicht installiert
+M	请在官网下载“QQ授权工具”	Download the 'QQ auth tool' from the website	Bitte das „QQ-Autorisierungstool“ von der Website herunterladen
+M	职位=	Role=	Rang=
+M	职位= 成员	Role= Member	Rang= Mitglied
+M	职位= 首领	Role= Leader	Rang= Anführer
+M	职位= 长老	Role= Elder	Rang= Ältester
+M	没有找到竞赛	No Clan Games found	Keine Clanspiele gefunden
+M	令牌界面	Gold Pass screen	Goldpass-Ansicht
+M	采集	Collect	Sammeln
+M	领取活动仅支持经典场景	Event claiming only works on the classic scenery	Events abholen funktioniert nur im klassischen Szenario
+M	打开每周精选	Open weekly deals	Wöchentliche Angebote öffnen
+M	游戏不在前台，重新启动	Game not in foreground, restarting	Spiel nicht im Vordergrund, Neustart
+M	回归每日奖励	Returning-player daily reward	Tägliche Belohnung für zurückkehrende Spieler
+M	成功写入游戏数据	Game data written	Spieldaten geschrieben
+M	开箱动画	Chest animation	Truhenanimation
+M	开箱动画--继续	Chest animation - continue	Truhenanimation – weiter
+M	右箭头	Right arrow	Pfeil nach rechts
+M	放置物品	Place item	Gegenstand platzieren
+M	宝箱	Chest	Truhe
+M	常青树	Evergreen tree	Immergrüner Baum
+M	灌木	Bush	Busch
+M	大树林	Large trees	Großer Wald
+M	蘑菇	Mushroom	Pilz
+M	大树	Large tree	Großer Baum
+M	向下动态箭头	Animated down arrow	Animierter Pfeil nach unten
+M	通用对话框处理	Generic dialog handling	Allgemeine Dialogbehandlung
+M	对话框	Dialog	Dialog
+M	红x	Red X	Rotes X
+M	突袭恭喜界面	Raid congratulations screen	Überfall-Glückwunschansicht
+M	点击墓碑	Tap gravestone	Grabstein antippen
+M	列表收集完成	List collected	Liste fertig gesammelt
+M	筛选新建筑	Filtering new buildings	Neue Gebäude werden gefiltert
+M	界面异常 退出	Screen error - exit	Ansichtsfehler – beenden
+M	找宠物屋位置	Locating Pet House	Suche nach Position des Begleiterhauses
+M	首领欢迎回来	Leader 'welcome back'	Anführer „Willkommen zurück“
+M	检查帮手小屋解锁助手	Checking Helper Hut for unlocked helpers	Helferhütte auf freigeschaltete Helfer prüfen
+M	资源转换：金→黑	Resource convert: Gold -> DE	Rohstoffumwandlung: Gold → DE
+M	打开魔法物品栏	Open magic items	Magische Gegenstände öffnen
+M	打开铸币坊	Open the Forge	Schmiede öffnen
+M	爱玩coc捐兵中...	Aiwan CoC donating...	Aiwan CoC spendet Truppen…
+M	小窗口：捐兵	Small window: donate	Kleines Fenster: Spenden
+M	大窗口：捐兵+法	Large window: donate troops + spells	Großes Fenster: Truppen + Zauber spenden
+M	没找到进攻界面	Attack screen not found	Angriffsansicht nicht gefunden
+M	主打鱼返回信息：没找到进攻界面	Farm result: attack screen not found	Farm-Ergebnis: Angriffsansicht nicht gefunden
+M	进攻界面	Attack screen	Angriffsansicht
+M	打鱼：求援	Farming: request CC	Farmen: Clanburg anfordern
+M	上次造的是:打鱼的兵	Last trained: farming army	Zuletzt trainiert: Farm-Armee
+M	现在重造:打鱼的兵	Retraining: farming army	Jetzt neu trainiert: Farm-Armee
+M	主打鱼返回信息：主打完回营	Farm result: attack done, back home	Farm-Ergebnis: Angriff fertig, zurück im Dorf
+M	胜利之星	Star Bonus	Sternebonus
+M	没有新建筑	No new buildings	Keine neuen Gebäude
+M	筛选最高花费	Picking highest cost	Höchste Kosten werden gewählt
+M	打完回营	Attack done, back home	Angriff fertig, zurück im Dorf
+M	主打鱼返回信息：回主界面超时	Farm result: timed out returning home	Farm-Ergebnis: Zeitüberschreitung bei der Rückkehr
+M	进部落界面	Clan screen	Clan-Ansicht
+M	没开战-并且不是首领	No war - and not leader	Kein Krieg – und kein Anführer
+M	收集资源车	Collect Elixir Cart	Elixierkarren einsammeln
+M	精制台教程	Crafting Station tutorial	Fertigungsstation-Tutorial
+M	解锁工人学徒	Unlock Builder's Apprentice	Bauarbeiterlehrling freischalten
+M	进攻-编辑防御教程	Attack - edit defense tutorial	Angriff – Verteidigung-bearbeiten-Tutorial
+M	进攻-点防御设置	Attack - tap defense settings	Angriff – Verteidigungseinstellungen antippen
+M	识别下一个按钮失败	Couldn't find the Next button	„Weiter“-Schaltfläche nicht erkannt
+M	主打鱼返回信息：识别下一个按钮失败	Farm result: couldn't find the Next button	Farm-Ergebnis: „Weiter“-Schaltfläche nicht erkannt
+M	城墙	Wall	Mauer
+M	特斯拉电磁塔	Hidden Tesla	Verborgener Tesla
+M	建筑工人小屋	Builder's Hut	Bauhütte
+M	防空火箭	Air Defense	Luftabwehr
+M	暗黑重油钻井	Dark Elixir Drill	Bohrer für Dunkles Elixier
+M	大本营	Town Hall	Rathaus
+M	地狱之塔	Inferno Tower	Infernoturm
+M	十字连弩	X-Bow	X-Bogen
+M	圣水收集器	Elixir Collector	Elixiersammler
+M	亡灵王子	Minion Prince	Lakaienprinz
+M	飞盾战神	Royal Champion	Königliche Gladiatorin
+M	暗黑重油罐	Dark Elixir Storage	Lager für Dunkles Elixier
+M	储金罐	Gold Storage	Goldlager
+M	天鹰火炮	Eagle Artillery	Adlerartillerie
+M	圣水瓶	Elixir Storage	Elixierlager
+M	野蛮人之王	Barbarian King	Barbarenkönig
+M	弓箭女皇	Archer Queen	Bogenschützen-Königin
+M	攻城机器工坊	Workshop	Werkstatt
+M	大守护者	Grand Warden	Großer Wächter
+M	部落城堡	Clan Castle	Clanburg
+M	战宠小屋	Pet House	Begleiterhaus
+M	飞龙公爵	Dragon Duke	Drachenfürst
+M	爱玩coc免费辅助：	Aiwan CoC free bot:	Aiwan CoC Gratis-Bot:
+M	热更完成，如果热更失败到官网下载完整安装包	Hot update done. If it failed, download the full installer from the website	Update fertig. Falls es fehlschlug, das vollständige Installationspaket von der Website laden
+M	识别村庄资源	Reading village loot	Dorfbeute wird gelesen
+M	启动版本:谷歌	Launch version: Google	Startversion: Google
+M	启动包名:com.supercell.clashofclans	Launch package: com.supercell.clashofclans	Start-Paketname: com.supercell.clashofclans
+M	打鱼统计：	Farming stats:	Farm-Statistik:
+M	条件符合-判断采集器	Conditions met - checking collectors	Bedingungen erfüllt – Sammler werden geprüft
+M	有更新	Update available	Update verfügbar
+M	闪金=是 闪水=是 闪黑=是	Gold full=yes  Elixir full=yes  DE full=yes	Gold voll=ja  Elixier voll=ja  DE voll=ja
+M	闪金=否 闪水=否 闪黑=是	Gold full=no  Elixir full=no  DE full=yes	Gold voll=nein  Elixier voll=nein  DE voll=ja
+M	闪金=是 闪水=否 闪黑=是	Gold full=yes  Elixir full=no  DE full=yes	Gold voll=ja  Elixier voll=nein  DE voll=ja
+M	请等待加载设置界面，设备性能差的可能时间比较长	Loading settings, this can take a while on slower devices	Einstellungen werden geladen, das kann auf schwächeren Geräten dauern
+M	勾选数据包登录 = 否	Data package login ticked = no	Datenpaket-Login angehakt = nein
+M	勾选数据包登录 = 是	Data package login ticked = yes	Datenpaket-Login angehakt = ja
+M	使用数据包登录 = 否	Use data package login = no	Datenpaket-Login verwenden = nein
+M	你的手机拿反了	Your phone is upside down	Dein Handy ist verkehrt herum
+M	UI识别：重试	UI recognition: retry	UI-Erkennung: Neuer Versuch
+M	UI识别：重新载入游戏	UI recognition: reloading game	UI-Erkennung: Spiel wird neu geladen
+M	满足强制进攻条件：	Force-attack conditions met:	Bedingungen für erzwungenen Angriff erfüllt:
+M	下兵方式：单面仿滑屏	Deploy: one side, simulated swipe	Truppeneinsatz: eine Seite, simulierter Wisch
+M	到爱玩官网下载游戏	Download the game from the Aiwan website	Spiel von der Aiwan-Website herunterladen
+M	([免费试用 可租可售]已ROOT手机 可挂三角洲 部落冲突。预装爱玩，到手直接用，无需繁琐调试！微信AAlefan)	(Ad: rooted phones for rent/sale with Aiwan preinstalled. WeChat AAlefan)	(Werbung: Gerootete Handys zu mieten/kaufen mit vorinstalliertem Aiwan. WeChat AAlefan)
+M	愤怒	Angry	Groll
+M	Please set game language to Simplified Chinese.	Please set game language to Simplified Chinese.	Bitte stelle die Spielsprache auf Chinesisch (vereinfacht).
+M	启动	Start	Start
+M	卡密	License key	Lizenzschlüssel
+M	脚本设置	Script settings	Skript-Einstellungen
+M	ROOT引擎开始启动中，请稍等	Starting ROOT engine, please wait	ROOT-Engine wird gestartet, bitte warten
+M	开始等待ROOT引擎启动	Waiting for the ROOT engine to start	Warte auf den Start der ROOT-Engine
+M	脚本引擎开始启动中，请稍等	Starting script engine, please wait	Skript-Engine wird gestartet, bitte warten
+M	脚本引擎启动完成	Script engine started	Skript-Engine gestartet
+M	脚本加载中请稍等	Loading script, please wait	Skript wird geladen, bitte warten
+M	界面加载中请稍等	Loading interface, please wait	Oberfläche wird geladen, bitte warten
+M	加载中...	Loading...	Lädt...
+M	点我停止倒计时自动运行	Tap to stop the auto-run countdown	Tippen, um den Auto-Start-Countdown zu stoppen
+M	开始运行\nStart run	Start run	Starten
+M	恢复默认\nReset Config	Reset config	Standard wiederherstellen
+M	恢复默认	Reset config	Standard wiederherstellen
+M	爱玩账号：\nScript user	Aiwan account:	Aiwan-Konto:
+M	登录爱玩账号     \nlogin Script user	Log in to Aiwan account	Beim Aiwan-Konto anmelden
+M	查豆\ntest	Check Aidou	Aidou prüfen
+M	登出\nlog out	Log out	Abmelden
+M	登出	Log out	Abmelden
+M	官网看教程，进官网是把网址输入到网址栏访问\nService official website：cocfz.com	Tutorials on the website - type the address in the address bar\nWebsite: cocfz.com	Anleitungen auf der Website – Adresse in die Adressleiste eingeben\nWebsite: cocfz.com
+M	使用QQ授权登录时清除游戏应用数据\n（可以解决进游戏无法操作现象，可能影响数据包多开）	Clear game app data when using QQ auth login\n(fixes 'can't control the game', may affect data-package multi-account)	Spieldaten beim QQ-Login löschen\n(behebt „Spiel lässt sich nicht bedienen“, kann Datenpaket-Multi-Account beeinflussen)
+M	数据包提取+数据包切号+QQ授权抓取和上号工具\nData Package Tool, Change account Tool	Data package extract + account switch + QQ auth tool	Datenpaket extrahieren + Kontowechsel + QQ-Autorisierung abgreifen und anmelden (Tool)
+M	使用图形造兵界面(打开设置会变慢一点)\nUse image interface Config army	Use graphical army editor (settings open a bit slower)	Grafischen Armee-Editor verwenden (Einstellungen öffnen etwas langsamer)
+M	清除	Clear	Löschen
+M	秒	s	Sek.
+M	创建\nCreate	Create	Erstellen
+M	创建	Create	Erstellen
+M	开账号设置\nAccount config	Open account settings	Kontoeinstellungen öffnen
+M	账号\ncopy	Copy account	Konto kopieren
+M	账号	Account	Konto
+M	的设置批量应用到\nAccount config to	settings -> apply to	Einstellungen anwenden auf
+M	确认\ncopy	Confirm copy	Kopieren bestätigen
+M	设置\nset	Settings	Einstellungen
+M	请选择	Please select	Bitte auswählen
+M	结束	End	Ende
+M	停止脚本	Stop script	Skript stoppen
+M	循环	Loop	Schleife
+M	自动运行倒计时已停止\nAuto run has stopped	Auto-run countdown stopped	Auto-Start-Countdown gestoppt
+M	自动运行倒计时已停止	Auto-run countdown stopped	Auto-Start-Countdown gestoppt
+M	请先运行脚本	Please run the script first	Bitte zuerst das Skript starten
+M	资源全满了，停止打资源	Storages are full, stopping farming	Lager sind voll, Farmen wird gestoppt
+M	引擎模式选项	Engine mode options	Engine-Modus
+M	手动模式 (由脚本选择开启截图和无障碍)	Manual mode (script decides whether to enable screenshots and accessibility)	Manueller Modus (Skript aktiviert Screenshots und Bedienungshilfen nach Bedarf)
+M	ROOT(激活)模式	ROOT (activation) mode	ROOT-(Aktivierungs-)Modus
+M	无障碍模式	Accessibility mode	Bedienungshilfen-Modus
+M	运行模式选项	Run mode options	Ausführungsoptionen
+M	开启无障碍服务	Enable accessibility service	Bedienungshilfen-Dienst aktivieren
+M	开启新节点服务	Enable new node service	Neuen Knotendienst aktivieren
+M	开启截图服务	Enable screenshot service	Screenshot-Dienst aktivieren
+M	ROOT节点服务(ROOT/激活模式))	ROOT node service (ROOT/activation mode)	ROOT-Knotendienst (ROOT-/Aktivierungsmodus)
+M	低消耗截图模式(ROOT/激活模式))	Low-power screenshot mode (ROOT/activation mode)	Stromsparender Screenshot-Modus (ROOT-/Aktivierungsmodus)
+M	开启ROOT(激活)模式服务	Enable ROOT (activation) mode service	ROOT-(Aktivierungs-)Modusdienst aktivieren
+M	开机自启动	Start on boot	Beim Hochfahren starten
+M	音量(+)启动脚本(-)关闭脚本	Volume (+) starts the script, (-) stops it	Lautstärke (+) startet das Skript, (-) stoppt es
+M	启动脚本震动	Vibrate when the script starts	Beim Skriptstart vibrieren
+M	停止脚本显示提示	Show a notice when the script stops	Hinweis beim Skriptstopp anzeigen
+M	手动开启输入法	Enable input method manually	Eingabemethode manuell aktivieren
+M	脚本运行在最高权限环境中	Run the script with highest privileges	Skript mit höchsten Rechten ausführen
+M	其它相关选项	Other options	Weitere Optionen
+M	自动保存调试日志	Auto-save debug log	Debug-Protokoll automatisch speichern
+M	日志添加行号和文件名	Add line numbers and file names to the log	Zeilennummern und Dateinamen ins Protokoll schreiben
+M	打开日志文件列表	Open log file list	Liste der Protokolldateien öffnen
+M	使用精简日志悬浮窗模式	Use compact floating log window	Kompaktes schwebendes Protokollfenster verwenden
+M	当前版本信息	Current version info	Aktuelle Versionsinfo
+M	虚拟屏调试设置	Virtual screen debug settings	Debug-Einstellungen für virtuellen Bildschirm
+M	此选项只是用于方便IDE图色调试，当创建虚拟屏后全局截图将用这个虚拟屏幕去取图，点击销毁后就会恢复主屏幕截图（注意使用虚拟屏不要开启低消耗截图否则虚拟屏截图无效）	This option is only for IDE image/color debugging. Once a virtual screen is created, all screenshots are taken from it; tap Destroy to go back to main-screen screenshots. (Don't enable low-power screenshots with a virtual screen, otherwise its screenshots won't work.)	Diese Option dient nur dem Bild-/Farb-Debugging in der IDE. Nach dem Erstellen eines virtuellen Bildschirms werden alle Screenshots von diesem aufgenommen; „Entfernen“ stellt wieder Screenshots vom Hauptbildschirm her. (Mit virtuellem Bildschirm keine stromsparenden Screenshots aktivieren, sonst funktionieren dessen Screenshots nicht.)
+M	宽度	Width	Breite
+M	高度	Height	Höhe
+M	创建虚拟屏	Create virtual screen	Virtuellen Bildschirm erstellen
+M	显示	Show	Anzeigen
+M	销毁	Destroy	Entfernen
+M	插件调试	Plugin debugging	Plugin-Debugging
+M	测试插件存放位置/sdcard/Download/lrplugin.apk	Test plugin location: /sdcard/Download/lrplugin.apk	Speicherort des Test-Plugins: /sdcard/Download/lrplugin.apk
+M	加载插件	Load plugin	Plugin laden
+M	打开插件主页	Open plugin home page	Plugin-Startseite öffnen
+M	调试模式设置	Debug mode settings	Debug-Modus-Einstellungen
+M	本机IP :	Device IP:	Geräte-IP:
+M	远程主机:	Remote host:	Entfernter Host:
+M	连接电脑调试端	Connect to PC debugger	Mit PC-Debugger verbinden
+M	Shizuku激活	Shizuku activation	Shizuku-Aktivierung
+M	爱玩coc刷部落靓标签设置	Aiwan CoC - nice clan tag settings	Aiwan CoC – Einstellungen für schöne Clankürzel
+M	这是公共设置，通用所有账号	Shared setting, applies to all accounts	Gemeinsame Einstellung für alle Konten
+M	关闭 Close	Close	Schließen
+M	记录保存在/sdcard/爱玩靓标签/ 目录下	Records are saved in /sdcard/爱玩靓标签/	Einträge werden in /sdcard/爱玩靓标签/ gespeichert
+M	0.刷短标	0. Short tag	0. Kurzes Kürzel
+M	例：#UVYQ，4位	e.g. #UVYQ, 4 chars	z. B. #UVYQ, 4 Zeichen
+M	1.纯数字，例：#2489654985	1. Digits only, e.g. #2489654985	1. Nur Ziffern, z. B. #2489654985
+M	2.包含数字	2. Contains digits	2. Enthält Ziffern
+M	例：#24QQQ2424，6个	e.g. #24QQQ2424, 6 digits	z. B. #24QQQ2424, 6 Ziffern
+M	3.数字豹子	3. Same digit in a row	3. Gleiche Ziffer in Folge
+M	4.豹子	4. Same character in a row	4. Gleiches Zeichen in Folge
+M	5.豹子开头	5. Starts with a repeat	5. Beginnt mit Wiederholung
+M	6.豹子结尾	6. Ends with a repeat	6. Endet mit Wiederholung
+M	7.出现	7. Occurs	7. Kommt vor
+M	8.AB循环	8. AB repeat	8. AB-Wiederholung
+M	9.连对	9. Consecutive pairs	9. Paare in Folge
+M	10.三连对	10. Consecutive triples	10. Dreier in Folge
+M	11.三A四B	11. AAA + BBBB	11. AAA + BBBB
+M	12.间隔重现	12. Repeats at intervals	12. Wiederholung im Abstand
+M	13.回旋	13. Palindrome	13. Palindrom
+M	14.相似重现	14. Similar repeat	14. Ähnliche Wiederholung
+M	15.包含指定字符：	15. Contains these characters:	15. Enthält diese Zeichen:
+M	指定字符如果有多个，用*分隔，例：ABC*123	Separate several with *, e.g. ABC*123	Mehrere mit * trennen, z. B. ABC*123
+M	16.自定义格式：	16. Custom format:	16. Eigenes Format:
+M	支持多个，例：#AAABBB#ABABAB	Several allowed, e.g. #AAABBB#ABABAB	Mehrere möglich, z. B. #AAABBB#ABABAB
+M	部落标签：	Clan tag:	Clankürzel:
+M	测试	Test	Testen
+M	生成	Generate	Erzeugen
+M	生成的格式：	Generated format:	Erzeugtes Format:
+M	加入自定义格式	Add to custom formats	Zu eigenen Formaten hinzufügen
+B	野蛮	Raged Barb	Wütender Barbar
+B	弓箭	Sneaky Archer	Hinterhältige Bogenschützin
+B	巨人	Boxer Giant	Haudraufriese
+B	亡灵	Beta Minion	Mutantenlakai
+B	炸弹	Bomber	Bomber
+B	龙宝	Baby D	Baby-D
+B	女巫	Night Witch	Nachthexe
+B	气球	Drop Ship	Landungsschiff
+B	皮卡	Power PEKKA	Power-PEKKA
+B	野猪	Hog Glider	Schweinegleiter
+B	法师	E-fire Wiz	Elektrofeuermagier
+B	训练营	Builder Barracks	Bauarbeiterkaserne
+B	采集器	Gold Mine/Collector	Goldmine/Sammler
+P	账号{n}	Account {1}	Konto {1}
+P	界面{n}	Page {1}	Seite {1}
+P	规模：{n}人	Size: {1}	Größe: {1}
+P	传奇{n}	Legend {1}	Legende {1}
+P	爱玩coc免费辅助：v{n}	Aiwan CoC free bot: v{1}	Aiwan CoC Gratis-Bot: v{1}
+P	爱玩官网【awfuzhu.com:{n}】	Aiwan website [awfuzhu.com:{1}]	Aiwan-Website [awfuzhu.com:{1}]
+P	爱玩官网【awfuzhu.com:{n}】({n})s	Aiwan website [awfuzhu.com:{1}] ({2})s	Aiwan-Website [awfuzhu.com:{1}] ({2})s
+P	爱玩作者v：niubinote{n}	Author WeChat: niubinote{1}	Autor-WeChat: niubinote{1}
+P	爱玩作者v：niubinote{n}({n})s	Author WeChat: niubinote{1} ({2})s	Autor-WeChat: niubinote{1} ({2})s
+P	热更（{n}%），如果太慢停止辅助重新启动	Hot update ({1}%) - if too slow, stop the bot and restart it	Hot-Update ({1}%) – falls zu langsam, Bot stoppen und neu starten
+P	无变化回营：{n}/{n}	No change -> end battle: {1}/{2}	Keine Änderung -> Kampf beenden: {1}/{2}
+P	摧毁率：{n}%	Destruction: {1}%	Zerstörung: {1}%
+P	金剩余:{n}%	Gold left: {1}%	Gold übrig: {1}%
+P	水剩余:{n}%	Elixir left: {1}%	Elixier übrig: {1}%
+P	黑剩余:{n}%	DE left: {1}%	DE übrig: {1}%
+P	账号：{n}/{n} 搜鱼{n}次	Account {1}/{2} - searched {3} times	Konto {1}/{2} – {3} Mal gesucht
+P	飘白云倒计时：{n}	Clouds countdown: {1}	Wolken-Countdown: {1}
+P	金：{n}	Gold: {1}	Gold: {1}
+P	水：{n}	Elixir: {1}	Elixier: {1}
+P	黑：{n}	DE: {1}	DE: {1}
+P	金{n}	Gold {1}	Gold {1}
+P	水{n}	Elixir {1}	Elixier {1}
+P	黑{n}	DE {1}	DE {1}
+P	{n}秒后自动运行	Auto-run in {1} s	Automatischer Start in {1} Sek.
+P	共开{n}个号 启动账号{n}/{n}	{1} accounts enabled - starting account {2}/{3}	{1} Konten aktiv – Konto {2}/{3} wird gestartet
+P	等待{n}秒后识别游戏界面	Reading game screen in {1} s	Spielansicht wird in {1} Sek. erkannt
+P	进入游戏主页倒计时{n}秒	Entering village in {1} s	Dorf wird in {1} Sek. betreten
+P	爱玩coc数据统计：共开{n}个号  运行账号{n}/{n}  搜鱼{n}次  打鱼{n}次 ({n})s	Aiwan CoC stats: {1} accounts - running {2}/{3} - searched {4} - attacks {5} ({6})s	Aiwan CoC Statistik: {1} Konten – läuft {2}/{3} – {4} Mal gesucht – {5} Angriffe ({6})s
+P	历史获得金：{n}   历史获得水：{n}   历史获得黑：{n}	Total gold: {1}   Total elixir: {2}   Total DE: {3}	Gesamt Gold: {1}   Gesamt Elixier: {2}   Gesamt DE: {3}
+P	本次获得金：{n}   本次获得水：{n}   本次获得黑：{n}	This run gold: {1}   elixir: {2}   DE: {3}	Dieser Lauf Gold: {1}   Elixier: {2}   DE: {3}
+P	主村庄界面检测倒计时{n}秒	Home village check in {1} s	Hauptdorf-Prüfung in {1} Sek.
+P	CPU:{n}核 内存:{n}/{n}G 分辨率:{n}*{n} dpi{n} 帧率{n}	CPU: {1} cores  RAM: {2}/{3}G  Res: {4}*{5}  dpi {6}  FPS {7}	CPU: {1} Kerne  RAM: {2}/{3} GB  Auflösung: {4}*{5}  dpi {6}  FPS {7}
+P	处理账号{n}	Processing account {1}	Konto {1} wird bearbeitet
+P	实验室工人:{n}/{n}	Lab assistant: {1}/{2}	Laborgehilfe: {1}/{2}
+P	实验室工人：{n}/{n}	Lab assistant: {1}/{2}	Laborgehilfe: {1}/{2}
+P	宝石:{n}	Gems: {1}	Juwelen: {1}
+P	放完兵回主界面倒计时{n}秒	Back to village after deploy in {1} s	Zurück ins Dorf nach dem Einsatz in {1} Sek.
+P	第{n}次打鱼，设置的次数：{n}	Farm attack {1}, set to: {2}	{1}. Farm-Angriff, eingestellt: {2}
+P	搜鱼金={n}	Min gold={1}	Mindest-Gold={1}
+P	搜鱼水={n}	Min elixir={1}	Mindest-Elixier={1}
+P	搜鱼黑={n}	Min DE={1}	Mindest-DE={1}
+P	强制进攻金={n}	Force-attack gold={1}	Erzwungener Angriff Gold={1}
+P	强制进攻水={n}	Force-attack elixir={1}	Erzwungener Angriff Elixier={1}
+P	强制进攻黑={n}	Force-attack DE={1}	Erzwungener Angriff DE={1}
+P	建筑工人:{n}/{n}	Builders: {1}/{2}	Bauarbeiter: {1}/{2}
+P	建筑工人：{n}/{n}	Builders: {1}/{2}	Bauarbeiter: {1}/{2}
+P	{n}分钟后重做军队	Retrain army in {1} min	Armee neu trainieren in {1} Min.
+P	爱玩coc{n}位版v{n}账号{n}	Aiwan CoC {1}-bit v{2} account {3}	Aiwan CoC {1}-Bit v{2} Konto {3}
+P	账号{n}备注notes：	Account {1} notes:	Konto {1} Notizen:
+P	v{n} 账号{n}/{n}	v{1} account {2}/{3}	v{1} Konto {2}/{3}
+P	账号{n} 版本 = 谷歌	Account {1} version = Google	Konto {1} Version = Google
+P	大本等级= {n}	Town Hall level = {1}	Rathaus-Level = {1}
+P	立树干{n}	Tree trunk {1}	Baumstamm (stehend) {1}
+P	树干{n}	Trunk {1}	Baumstamm {1}
+P	带雪的立树干{n}	Snowy tree trunk {1}	Verschneiter Baumstamm (stehend) {1}
+P	升建筑建筑空闲工人：{n}预留工人：{n}	Building upgrades - free builders: {1}  reserved: {2}	Gebäude-Upgrades – freie Bauarbeiter: {1}  reserviert: {2}
+P	切号时间还剩：{n}分{n}秒	Account switch in: {1} min {2} s	Kontowechsel in: {1} Min. {2} Sek.
+P	版本号v{n}	Version v{1}	Version v{1}
+P	最新版本v{n}  爱玩官网：awfuzhu.com:{n}	Latest version v{1}  Website: awfuzhu.com:{2}	Neueste Version v{1}  Aiwan-Website: awfuzhu.com:{2}
+P	删除失败，/sdcard/爱琦国服/{n} 不存在	Delete failed, /sdcard/爱琦国服/{1} doesn't exist	Löschen fehlgeschlagen, /sdcard/爱琦国服/{1} existiert nicht
+P	删除失败，/sdcard/爱琦国际/{n} 不存在	Delete failed, /sdcard/爱琦国际/{1} doesn't exist	Löschen fehlgeschlagen, /sdcard/爱琦国际/{1} existiert nicht
+P	请登录游戏后提取数据包到：{n}	Log into the game, then extract the data package to: {1}	Bitte im Spiel anmelden und das Datenpaket extrahieren nach: {1}
+P	使用数据包目录：/爱琦国际/{n}	Data package folder: /爱琦国际/{1}	Datenpaket-Ordner: /爱琦国际/{1}
+P	女提示{n}	Tutorial hint {1}	Tutorial-Hinweis {1}
+P	第{n}步女提示商店建加农炮	Tutorial step {1}: shop - build cannon	Tutorial-Schritt {1}: Shop – Kanone bauen
+P	{n}级城堡	Clan Castle level {1}	Clanburg Level {1}
+P	币：{n}	Coins: {1}	Münzen: {1}
+P	兵种：{n}/{n}  可训练={n}	Troops: {1}/{2}  trainable={3}	Truppen: {1}/{2}  trainierbar={3}
+P	法术：{n}/{n}  可训练={n}	Spells: {1}/{2}  trainable={3}	Zauber: {1}/{2}  trainierbar={3}
+P	机器：{n}/{n}  可训练={n}	Sieges: {1}/{2}  trainable={3}	Belagerungsmaschinen: {1}/{2}  trainierbar={3}
+P	兵种：{n} 法术：{n}	Troops: {1}  Spells: {2}	Truppen: {1}  Zauber: {2}
+P	巨数量{n}	Giants {1}	Riesen {1}
+P	蛮数量{n}	Barbs {1}	Barbaren {1}
+P	弓数量{n}	Archers {1}	Bogenschützen {1}
+P	狂暴数量{n}	Rage {1}	Wut {1}
+P	账号记忆：{n}	Resume account: {1}	Konto fortsetzen: {1}
+P	提取失败，/sdcard/爱琦国际/{n} 已存在	Extract failed, /sdcard/爱琦国际/{1} already exists	Extrahieren fehlgeschlagen, /sdcard/爱琦国际/{1} existiert bereits
+P	没找到数据包文件目录/sdcard/爱琦国服/{n}	Data package folder not found: /sdcard/爱琦国服/{1}	Datenpaket-Ordner nicht gefunden: /sdcard/爱琦国服/{1}
+P	没找到数据包文件目录/sdcard/爱琦国际/{n}	Data package folder not found: /sdcard/爱琦国际/{1}	Datenpaket-Ordner nicht gefunden: /sdcard/爱琦国际/{1}
+P	{n}国际服的部落冲突	{1} international Clash of Clans found	{1} internationale Clash-of-Clans-Version gefunden
+P	{n}.可能服务器被攻击中，作者微信：niubinote{n}	{1}. The server may be under attack - author WeChat: niubinote{2}	{1}. Der Server wird möglicherweise angegriffen – Autor-WeChat: niubinote{2}
+P	{n}.可能设备没有网络	{1}. The device may have no internet	{1}. Das Gerät hat möglicherweise kein Internet
+P	{n}.可能辅助已改版，卸载重新在爱玩官网下载最新版本	{1}. The bot may have changed - uninstall and download the latest from the website	{1}. Der Bot wurde möglicherweise geändert – deinstallieren und die neueste Version von der Aiwan-Website laden
+P	{n}.不要勾选 ROOT节点服务 重启辅助试一下，勾选最高权限运行，如果出现停止脚本就取消最高权限运行	{1}. Untick ROOT node service and restart the bot; tick 'run with highest privileges' - if the script stops, untick it again	{1}. „ROOT-Knotendienst“ abwählen und den Bot neu starten; „Mit höchsten Rechten ausführen“ anhaken – stoppt dann das Skript, wieder abwählen
+P	{n}.勾选开启无障碍服务	{1}. Tick 'Enable accessibility service'	{1}. „Bedienungshilfen-Dienst aktivieren“ anhaken
+P	造兵弹教程{n}	Training tutorial {1}	Training-Tutorial {1}
+P	骷髅巨人{n}	Giant Skeleton {1}	Riesenskelett {1}
+P	网络掉线再检测{n}秒	Connection lost, rechecking in {1} s	Verbindung verloren, erneute Prüfung in {1} Sek.
+P	使用账号{n}的造兵配置	Using account {1}'s army settings	Armee-Einstellungen von Konto {1} werden verwendet
+P	查看/下载{n}位蓝图标的云端配置	View/download cloud config of the {1}-bit blue-icon version	Cloud-Konfiguration der {1}-Bit-Version mit blauem Symbol ansehen/herunterladen
+P	把{n}位蓝图标的本地配置转过来	Import local config from the {1}-bit blue-icon version	Lokale Konfiguration der {1}-Bit-Version mit blauem Symbol übernehmen
+P	爱玩coc{n}位版	Aiwan CoC {1}-bit	Aiwan CoC {1}-Bit
+P	爱玩coc{n}位版 (版本{n}.{n})	Aiwan CoC {1}-bit (version {2}.{3})	Aiwan CoC {1}-Bit (Version {2}.{3})
+P	爱玩coc{n}位版v{n}	Aiwan CoC {1}-bit v{2}	Aiwan CoC {1}-Bit v{2}
+P	(稳定挂机用熊猫云手机，激活码{n}元/月，作者推荐！稳定流畅包不卡！点击链接跳转下载，微信{n})	(Ad: Panda cloud phone, {1} CNY/month activation code, recommended by the author. WeChat {2})	(Werbung: Panda-Cloud-Handy, Aktivierungscode {1} CNY/Monat, vom Autor empfohlen. WeChat {2})
+P	{n}秒后自动运行\n{n}second auto run	Auto-run in {1} s	Automatischer Start in {1} Sek.
+P	版本号v{n}	Version v{1}	Version v{1}
+P	v{n} 爱豆：{n}	v{1} Aidou: {2}	v{1} Aidou: {2}
+P	v{n} 账号{n}/{n} 爱豆：{n}	v{1} account {2}/{3} Aidou: {4}	v{1} Konto {2}/{3} Aidou: {4}
+P	{s}：正在处理...	{1}: Processing...	{1}: Wird verarbeitet...
+P	{s}：爱豆（{n}）	{1}: Aidou ({2})	{1}: Aidou ({2})
+P	{s}：服务器访问失败，请稍后重试	{1}: Server unreachable, please try again later	{1}: Server nicht erreichbar, bitte später erneut versuchen
+P	账号{n}\nAccount	Account {1}	Konto {1}
+P	账号{n}：	Account {1}:	Konto {1}:
+P	历史获得金：{n}	Total gold: {1}	Gesamt Gold: {1}
+P	历史获得水：{n}	Total elixir: {1}	Gesamt Elixier: {1}
+P	历史获得黑：{n}	Total DE: {1}	Gesamt DE: {1}
+P	都城币={n}	Capital Gold={1}	Stadtgold={1}
+P	{n}位	{1} chars	{1} Zeichen
+P	{n}个	{1} digits	{1} Ziffern
+P	{n}连	{1} in a row	{1} in Folge
+P	{n}次	{1} times	{1}-mal
+P	例：{s}，{s}	e.g. {1}, {2}	z. B. {1}, {2}
