@@ -1,5 +1,5 @@
-#sig MEYCIQCu9OrJ/CzO5xMRq8roophO6l+Cuhw0ZoEuVqQbFwlldQIhANOLp56Yg9hbIZq4HmkXcTispq6/4jUrxWRlzDFL/4c0
-V	2026-11-05T18:25:38Z
+#sig MEUCIQCvK30nzhcvTMR4vFn0LBotzvBzD1jD5jpSwOqpnGlIJgIgfJsuOvVVHyWj/3ftqGXN3ZIpe6apiOEXconRPaCP6xU=
+V	2026-11-05T19:16:39Z
 M	脚本结束	Script ended	Skript beendet
 M	脚本已结束	Script ended	Skript beendet
 M	脚本运行中	Script running	Skript läuft
@@ -907,8 +907,8 @@ M	请选择	Please select	Bitte auswählen
 M	结束	End	Ende
 M	停止脚本	Stop script	Skript stoppen
 M	循环	Loop	Schleife
-M	自动运行倒计时已停止\nAuto run has stopped	Auto-run countdown stopped	Auto-Start-Countdown gestoppt
-M	自动运行倒计时已停止	Auto-run countdown stopped	Auto-Start-Countdown gestoppt
+M	自动运行倒计时已停止\nAuto run has stopped	Auto-run stopped	Auto-Start gestoppt
+M	自动运行倒计时已停止	Auto-run stopped	Auto-Start gestoppt
 M	请先运行脚本	Please run the script first	Bitte zuerst das Skript starten
 M	资源全满了，停止打资源	Storages are full, stopping farming	Lager sind voll, Farmen wird gestoppt
 M	引擎模式选项	Engine mode options	Engine-Modus
